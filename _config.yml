@@ -64,7 +64,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Home Page":
+  "Product Home":
     - "//forguncy.net/"
 
 # Makes Aux links open in a new tab. Default is false
@@ -123,17 +123,17 @@ compress_html:
   # ignore:
   #   envs: all
 
-collections:
-  docs:
-    permalink: "/:path/"
-    output: false
-  tutorials:
-    permalink: "/:collection/:path/"
-    output: false
+# collections:
+#   docs:
+#     permalink: "/:path/"
+#     output: false
+#   tutorials:
+#     permalink: "/:collection/:path/"
+#     output: false
 
-just_the_docs:
-  collections:
-    docs:
-      name: Documentation
-    tutorials:
-      name: Tutorials
+# just_the_docs:
+#   collections:
+#     docs:
+#       name: Documentation
+#     tutorials:
+#       name: Tutorials
