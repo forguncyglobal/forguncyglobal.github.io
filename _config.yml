@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Forguncy Help
+title: Forguncy Help Center
 description: Technical documentation for Forguncy.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://forguncyglobal.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -123,17 +123,19 @@ compress_html:
   # ignore:
   #   envs: all
 
-# collections:
-#   docs:
-#     permalink: "/:path/"
-#     output: false
-#   tutorials:
-#     permalink: "/:collection/:path/"
-#     output: false
 
+social:
+  name: Forguncy
+  links:
+    - https://twitter.com/forguncy1
+    - https://www.facebook.com/Forguncy-104572928812485
+    - https://github.com/forguncyglobal
+
+# collections:
+#   overview:
+#     permalink: "/overview/:path/"
+#     output: true
 # just_the_docs:
 #   collections:
-#     docs:
-#       name: Documentation
-#     tutorials:
-#       name: Tutorials
+#     overview:
+#       name: Overview
