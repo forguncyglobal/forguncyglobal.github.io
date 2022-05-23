@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Update Forguncy
-has_children: true
 parent: Installation
+permalink: /installation/update-forguncy/
 nav_order: 3
 ---
 
-{{ page.title }}
+# {{ page.title }}
 
 ## Update Forguncy Builder
 

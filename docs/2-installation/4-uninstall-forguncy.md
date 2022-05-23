@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Uninstall Forguncy
-has_children: true
 parent: Installation
+permalink: /installation/uninstall-forguncy/
 nav_order: 4
 ---
 
-{{ page.title }}
+# {{ page.title }}
 
 ## Update Forguncy Builder
 

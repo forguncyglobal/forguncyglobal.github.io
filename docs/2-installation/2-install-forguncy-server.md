@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Install Forguncy Server
-has_children: true
 parent: Installation
+permalink: /installation/install-forguncy-server/
 nav_order: 2
 ---
 
-{{ page.title }}
-
+# {{ page.title }}

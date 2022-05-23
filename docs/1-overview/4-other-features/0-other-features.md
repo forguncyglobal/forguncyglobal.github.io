@@ -1,11 +1,14 @@
 ---
 layout: default
 title: Other Features
-parent: Overview
-has_children: true
+parent: Home
+permalink: /overview/otehr-features/
+nav_order: 4
+has_children: false
+has_toc: false
 ---
 
-{{ page.title }}
+# {{ page.title }}
 
 ## Plugins
 

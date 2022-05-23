@@ -1,9 +1,11 @@
 ---
 layout: default
 title: Run &amp; Debug
-has_children: true
+permalink: /run-and-debug/
 nav_order: 6
+has_children: true
+has_toc: false
 ---
 
-{{ page.title }}
+# {{ page.title }}
 

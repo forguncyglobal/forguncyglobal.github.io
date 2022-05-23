@@ -1,10 +1,30 @@
 ---
 layout: default
-title: Overview
+title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Forguncy documentation."
 permalink: /
 has_children: true
+has_toc: false
 ---
 
-{{ page.title }}
+# Forguncy Help Center
+
+Welcome to the Forguncy Help Center.
+
+**Forguncy** is a software package for developing and deploying a web application that is data-driven and context-sensitive. It can perform various client-side and server-side actions. As with any software development, you can debug, test, and tweak your web application every step of the way. It is also highly extensible.
+
+It consists of the following two software:  
+- **Builder:** It is a designer or a development environment where you will design, build, debug and test your web application. Click **[here](overview/about-forguncy-builder/)** to know more.
+  ![forguncy-builder](/assets/images/product-images/builder2.jpg)
+
+- **Server:** Once your web application is developed using the Builder, it must be hosted on a server. The Forguncy Server is a server component that serves (hosts) the web applications you create. Click **[here](overview/about-forguncy-server/)** to know more.
+  ![forguncy-builder](/assets/images/product-images/server1.jpg)
+
+## Getting Started
+- **Tutorials:** These tutorials take you through the process of developing simple web applications. You'll be trying out many of the product's features and understand some of the essential concepts using Forguncy. Click **[here](getting-started/tutorials/)** to check them out.
+- **Sample Projects:** Sample projects are an excellent way to know what kind of application can be built using Forguncy. In Forguncy, sample projects can be used as a template, which allows you to speed up your developing process significantly. Click **[here](getting-started/samples/)** to check them out.
+
+## Installation
+Jump **[right in](installation/)** and install the needed software on your computer. Click here for detailed instructions.
+

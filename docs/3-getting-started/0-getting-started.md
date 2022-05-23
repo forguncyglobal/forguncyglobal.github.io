@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Develop
-permalink: /develop/
-nav_order: 4
+title: Getting Started
+permalink: /getting-started/
+nav_order: 3
 has_children: true
 has_toc: false
 ---

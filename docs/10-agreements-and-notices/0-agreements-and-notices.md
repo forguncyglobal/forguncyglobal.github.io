@@ -1,9 +1,11 @@
 ---
 layout: default
 title: Agreements &amp; Notices
-has_children: true
+permalink: /agreements-and-notices/
 nav_order: 10
+has_children: true
+has_toc: false
 ---
 
-{{ page.title }}
+# {{ page.title }}
 

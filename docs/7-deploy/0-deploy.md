@@ -1,9 +1,11 @@
 ---
 layout: default
 title: Deploy
-has_children: true
+permalink: /deploy/
 nav_order: 7
+has_children: true
+has_toc: false
 ---
 
-{{ page.title }}
+# {{ page.title }}
 

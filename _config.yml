@@ -131,11 +131,3 @@ social:
     - https://www.facebook.com/Forguncy-104572928812485
     - https://github.com/forguncyglobal
 
-# collections:
-#   overview:
-#     permalink: "/overview/:path/"
-#     output: true
-# just_the_docs:
-#   collections:
-#     overview:
-#       name: Overview
