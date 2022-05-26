@@ -55,21 +55,23 @@ Cell references can be assigned names, which helps make your formulas more reada
 You can use data validation to restrict the type of value that users enter into a cell.
 
 ### Debug &amp; Run
-Forguncy Builder allows you to build and run your web application on your desktop (the development environment) on the choice of browsers. It helps in incremental development.
+Forguncy Builder allows you to build and run your web application on your desktop (the development environment) on the choice of browsers. It helps in incremental development. It even supports mobile simulator that you can test your application against.
 
 When using objects such as a table, listview, objects, and cell references across many pages, master pages, and reports, it becomes impossible to keep track of where they are being used. Forguncy Builder allows you to check where a particular object or cell reference is referenced.
 
 ### Themes
 Themes allow you to give a consistent look to your web application and make it easy to change the look and feel of your application quickly. 
 
+### Import &amp; Export
+When you're making a web application, you may want to have a quick jump start with it by using the existing Microsoft Excel documents or Microsoft Access projects. Forguncy allows you to import from Microsoft Excel documents and Microsoft projects and export pages or listview to Excel. And through some plugins, you can also import from or export to CSV.
 
-### Dataabse
+### Database
+Forguncy has extensive support for databases. The application can have its databases internally, as well as can connect to external data sources.
+
 ### Commands (Client-side &amp; Server-side)
 ### Scheduled Tasks
 ### Reports
-### Import &amp; Export
 ### Charts
-
-
+### Collaborative Development
 
 
