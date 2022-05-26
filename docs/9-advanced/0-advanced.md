@@ -8,4 +8,3 @@ has_toc: false
 ---
 
 # {{ page.title }}
-

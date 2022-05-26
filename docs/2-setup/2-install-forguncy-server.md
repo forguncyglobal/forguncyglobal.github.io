@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Install Forguncy Server
-parent: Installation
-permalink: /installation/install-forguncy-server/
+parent: Setup
+permalink: /setup/install-forguncy-server/
 nav_order: 2
 ---
 

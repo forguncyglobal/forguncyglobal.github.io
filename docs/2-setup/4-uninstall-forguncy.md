@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Update Forguncy
-parent: Installation
-permalink: /installation/update-forguncy/
-nav_order: 3
+title: Uninstall Forguncy
+parent: Setup
+permalink: /setup/uninstall-forguncy/
+nav_order: 4
 ---
 
 # {{ page.title }}

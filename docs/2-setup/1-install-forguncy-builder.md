@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Install Forguncy Builder
-parent: Installation
-permalink: /installation/install-forguncy-builder/
+parent: Setup
+permalink: /setup/install-forguncy-builder/
 nav_order: 1
 ---
 
