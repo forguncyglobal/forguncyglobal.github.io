@@ -13,10 +13,10 @@ The Forguncy Builder runs on your desktop and is available for Windows. If you'd
 ## Explore User Inteface
 ![forguncy-builder](/assets/images/product-images/forguncy-builder-explore.gif)
 
-- **Object Explorer** - The Object Explorer is the pane on the left side that lists various objects you can use in your project. Tables, views, pages, server commands, scheduled tasks, and reports you create are listed here.
-- **Main Area** - The wide main area in the center will be your work area. Objects such as pages and tables that you open get displayed here.
-- **Settings Pane** - As you work with various objects, you need to make changes to the settings. The pane on the right side of the main area is known as the settings pane, and you can make context-specific changes to the settings.
-**Ribbon Area** - The menu bar on the top gives you access to the ribbon areas organized by tabs and gives you access to various tools that help you design and develop web applications.
+- **Object Explorer** - The Object Explorer is the pane on the left side that lists various objects you can use in your project. Tables, views, pages, server commands, scheduled tasks, and reports you create are listed here.  
+- **Main Area** - The wide main area in the center will be your work area. Objects such as pages and tables that you open get displayed here.  
+- **Settings Pane** - As you work with various objects, you need to make changes to the settings. The pane on the right side of the main area is known as the settings pane, and you can make context-specific changes to the settings.  
+- **Ribbon Area** - The menu bar on the top gives you access to the ribbon areas organized by tabs and gives you access to various tools that help you design and develop web applications.  
 - **Formula Bar** - The bar provided right above the main area is for working with formulas on the selected cells. It also displays the coordination (address) of the currently selected cell(s).
 - **Zoom Controls** - The zoom controls that are accessible at the right bottom can be used to adjust the zoom level of the main area while working on pages and reports.
 - **Indicators** - The toolbar on the bottom left corner provides toggle buttons to show or hide indicators on the page to identify cells with different settings applied to them.
@@ -24,7 +24,7 @@ The Forguncy Builder runs on your desktop and is available for Windows. If you'd
 - **Get Help Toolbar** - The toolbar on the right top provides you quick access to the Welcome screen and the online help system (this website).
 
 ## Feature Highlights
-Following are some of the key features of Forguncy Builder.
+Following are some of the key features of Forguncy Builder. Each section links to pages with more details.
 
 ### Pages &amp; Master Pages
 Pages are the visual interface of your web application with which the user of your web application interacts.
