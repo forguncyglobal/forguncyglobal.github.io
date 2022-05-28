@@ -7,3 +7,7 @@ nav_order: 2
 ---
 
 # {{ page.title }}
+
+
+![server-install](/assets/images/product-images/server-install.gif)
+{: .dropshadow}
