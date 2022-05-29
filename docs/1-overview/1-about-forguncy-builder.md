@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About Forguncy Builder
-parent: Home
+parent: Overview
 permalink: /overview/about-forguncy-builder/
 nav_order: 1
 ---

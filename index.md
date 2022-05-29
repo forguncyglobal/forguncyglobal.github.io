@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Overview
 nav_order: 1
 description: "Forguncy documentation."
 permalink: /

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: About Forguncy Server
-parent: Home
+parent: Overview
 permalink: /overview/about-forguncy-server/
-nav_order: 3
+nav_order: 2
 ---
 
 # {{ page.title }}
