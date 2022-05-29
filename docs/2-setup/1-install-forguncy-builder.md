@@ -28,7 +28,7 @@ The Windows Server Core is not supported.
 - Memory: 4GB or more
 - Hard Drive: at least 400MB of free space
 
-If .NET Framework is not installed, 2GB or more free space is required on your hard drive.
+A 2GB or more free space is required on your hard drive if .NET Framework is not installed.
 {: .note}
 
 ### .NET Frameworks
