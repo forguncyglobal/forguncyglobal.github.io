@@ -11,6 +11,7 @@ nav_order: 4
 ## Activate
 
 
-## Unactivate
+## Deactivate
+
 
 

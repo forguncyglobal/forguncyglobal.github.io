@@ -10,6 +10,3 @@ nav_order: 3
 
 ## Activate
 
-
-## Unactivate
-
