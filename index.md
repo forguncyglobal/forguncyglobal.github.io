@@ -27,5 +27,5 @@ It consists of the following two software:
 **Sample Projects:** Sample projects are an excellent way to know what kind of application can be built using Forguncy. In Forguncy, sample projects can be used as a template, which allows you to speed up your developing process significantly. Click **[here](getting-started/samples/)** to check them out.
 
 ## Installation
-Jump **[right in](installation/)** and install the needed software on your computer. Click here for detailed instructions.
+Jump **[right in](setup/)** and install the needed software on your computer. Click here for detailed instructions.
 
