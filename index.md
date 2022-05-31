@@ -10,7 +10,7 @@ has_toc: false
 
 # Forguncy Documentation
 
-Welcome to the Forguncy Documentation.
+Welcome to the Forguncy Documentation website.
 
 Forguncy is a software package for developing and deploying a web application that is data-driven and context-sensitive. It can perform various client-side and server-side actions. You can debug, test, and tweak your web application every step of the way, as required in any software development proces. It is also highly extensible.
 
