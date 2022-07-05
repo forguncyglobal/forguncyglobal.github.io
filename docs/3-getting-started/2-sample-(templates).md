@@ -4,8 +4,6 @@ title: Sample (Templates)
 parent: Getting Started
 permalink: /getting-started/sample-(templates)/
 nav_order: 2
-has_children: false
-has_toc: false
 ---
 
 # {{ page.title }}
