@@ -17,7 +17,7 @@ Currently, there are three templates available in Forguncy Builder
 [Meal Orders](#Meal Orders Sample)
 -->
 
-![forguncy-builder-samples](/assets/images/Sample Templates/Meal Orders 1.png)
+![forguncy-builder-samples](/assets/images/sample-templates/meal-orders.png)
 {: . dropshadow}
 
 <!--
@@ -32,7 +32,7 @@ An application that allows:
 - To compare budget data with actual data on the same screen. 
 - To create a forecast using lists and graphs on the dashboard.
 
-![Budget-Control-Homepage](/assets/images/Sample Templates/Budget Control Homepage.png) 
+![Budget-Control-Homepage](/assets/images/sample-templates/budget-control-homepage.png) 
 {: . dropshadow}
 
 ### [► Try the demo app](https://apps.forguncy.net/budget-control/)
@@ -44,7 +44,7 @@ An application that allows:
 - To enter order data on the matrix table format screen. 
 - To generate the purchase order as a PDF file to the folder on the server-side.
 
-![Order-Management-Homepage](/assets/images/Sample Templates/Order Management Homepage.png)
+![Order-Management-Homepage](/assets/images/sample-templates/order-management-homepage.png)
 {: . dropshadow}
 
 ### [► Try the demo app](https://apps.forguncy.net/order-management/)
@@ -59,7 +59,7 @@ An application that allows:
 ##### Note: On mobile app, you can only place a new order and delete a previous order.
 <br/> 
 
-![Manage-Mealbox-Plans-Homepage](/assets/images/Sample Templates/Meal Orders Homepage.png)
+![Manage-Mealbox-Plans-Homepage](/assets/images/sample-templates/meal-orders-homepage.png)
 {: . dropshadow}
 
 ### [► Try the demo app](https://apps.forguncy.net/meal-orders/)
