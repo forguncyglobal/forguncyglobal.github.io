@@ -10,22 +10,19 @@ nav_order: 2
 
 Hands-on on Forguncy with sample templates available in Forguncy Builder under the tab **New**-> **Samples**. You can edit and make changes suitable to your requirements.
 
-Currently, there are three templates available in Forguncy Builder
-<!--
-[Budgeting](#Budgeting Sample)
- [Order Management](#Order Management Sample)
-[Meal Orders](#Meal Orders Sample)
--->
+Currently, there are three templates available in Forguncy Builder. Use them as a template to build your own application.
 
-![forguncy-builder-samples](/assets/images/sample-templates/meal-orders.png)
-{: . dropshadow}
+- [Budgeting](#budgeting)
+- [Order Management](#order-management)
+- [Meal Orders](#meal-orders)
+
 
 <!--
 ### Try these demo applications developed with Forguncy [**here**](https://www.forguncy.net/demo-apps).
 -->
 ---
 
-### [Budgeting Sample](https://apps.forguncy.net/budget-control/)
+### [Budgeting](https://apps.forguncy.net/budget-control/)
 
 An application that allows: 
 - To enter budgets for each department and refer to actual values. 
@@ -35,9 +32,12 @@ An application that allows:
 ![Budget-Control-Homepage](/assets/images/sample-templates/budget-control-homepage.png) 
 {: . dropshadow}
 
-### [► Try the demo app](https://apps.forguncy.net/budget-control/)
+##### [► Try](https://apps.forguncy.net/budget-control/)
+##### [⬇ Download](./assets/sample-projects/01BudgetControl.fgcproj)
 
-### [Order Management Sample](https://apps.forguncy.net/order-management/)
+#### [Back To Top](#sample-templates)
+
+### [Order Management](https://apps.forguncy.net/order-management/)
 
 An application that allows: 
 - To  create a purchase order by inputting order data of ingredients. 
@@ -47,9 +47,12 @@ An application that allows:
 ![Order-Management-Homepage](/assets/images/sample-templates/order-management-homepage.png)
 {: . dropshadow}
 
-### [► Try the demo app](https://apps.forguncy.net/order-management/)
+##### [► Try](https://apps.forguncy.net/order-management/)
+##### [⬇ Download](./assets/sample-projects/02OrderingSystem.fgcproj)
 
-### [Meal Orders Sample](https://apps.forguncy.net/meal-orders/)
+#### [Back To Top](#sample-templates)
+
+### [Meal Orders](https://apps.forguncy.net/meal-orders/)
 
 An application that allows: 
 - To order a meal box by date.
@@ -62,8 +65,8 @@ An application that allows:
 ![Manage-Mealbox-Plans-Homepage](/assets/images/sample-templates/meal-orders-homepage.png)
 {: . dropshadow}
 
-### [► Try the demo app](https://apps.forguncy.net/meal-orders/)
-
+##### [► Try](https://apps.forguncy.net/meal-orders/)
+##### [⬇ Download](./assets/sample-projects/03Bento.fgcproj)
 ---
 
 <!--
