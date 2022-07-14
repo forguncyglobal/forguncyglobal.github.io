@@ -33,7 +33,7 @@ An application that allows:
 {: . dropshadow}
 
 ##### [► Try](https://apps.forguncy.net/budget-control/)
-##### [⬇ Download](./assets/sample-projects/01BudgetControl.fgcproj)
+##### [⬇ Download](/assets/sample-projects/01BudgetControl.fgcproj)
 
 #### [Back To Top](#sample-templates)
 
@@ -48,7 +48,7 @@ An application that allows:
 {: . dropshadow}
 
 ##### [► Try](https://apps.forguncy.net/order-management/)
-##### [⬇ Download](./assets/sample-projects/02OrderingSystem.fgcproj)
+##### [⬇ Download](/assets/sample-projects/02OrderingSystem.fgcproj)
 
 #### [Back To Top](#sample-templates)
 
@@ -66,7 +66,7 @@ An application that allows:
 {: . dropshadow}
 
 ##### [► Try](https://apps.forguncy.net/meal-orders/)
-##### [⬇ Download](./assets/sample-projects/03Bento.fgcproj)
+##### [⬇ Download](/assets/sample-projects/03Bento.fgcproj)
 ---
 
 <!--
