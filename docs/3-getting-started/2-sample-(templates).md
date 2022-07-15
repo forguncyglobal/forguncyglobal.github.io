@@ -8,25 +8,36 @@ nav_order: 2
 
 # {{ page.title }}
 
-Hands-on on Forguncy with sample templates available in Forguncy Builder under the tab **New**-> **Samples**. You can edit and make changes suitable to your requirements.
+Hands-on on Forguncy with sample templates. Download and use them as a template to build your own application. You can edit and make changes suitable to your requirements.
 
-Currently, there are three templates available in Forguncy Builder. Use them as a template to build your own application.
-
+- [Feature Demo](#feature-demo)
 - [Budgeting](#budgeting)
 - [Order Management](#order-management)
 - [Meal Orders](#meal-orders)
 
-![Order-Management](/assets/images/sample-templates/00BasicFunction.png)
+----
+### Feature Demo
+
+<span class="fs-1">
+[Try](https://apps.forguncy.net/basic-functionalities){: .btn .btn-purple .mr-2 }
+</span>
+<span class="fs-1">
+[Download](){: .btn .btn-green .mr-2 }
+</span>
+
+A demo application to demonstrate the basic features of Forguncy. You can view and try out the basic functionalities of Forguncy builder application. 
+
+![Basic-function](/assets/images/sample-templates/00BasicFunction.png)
 {: . dropshadow}
 ---
 
-### [Budgeting](https://apps.forguncy.net/budget-control/)
+### Budgeting
 
 <span class="fs-1">
-[Try](https://apps.forguncy.net/budget-control/){: .btn .btn-purple .mr-4 }
+[Try](https://apps.forguncy.net/budget-control/){: .btn .btn-purple .mr-2 }
 </span>
 <span class="fs-1">
-[Download](/assets/sample-projects/01BudgetControl.fgcproj){: .btn .btn-green .mr-4 }
+[Download](/assets/sample-projects/01BudgetControl.fgcproj){: .btn .btn-green .mr-2 }
 </span>
 
 An application that allows: 
@@ -39,7 +50,7 @@ An application that allows:
 
 #### [Back To Top](#sample-templates)
 
-### [Order Management](https://apps.forguncy.net/order-management/)
+### Order Management
 
 <span class="fs-1">
 [Try](https://apps.forguncy.net/order-management/){: .btn .btn-purple .mr-4 }
@@ -59,7 +70,7 @@ An application that allows:
 
 #### [Back To Top](#sample-templates)
 
-### [Meal Orders](https://apps.forguncy.net/meal-orders/)
+### Meal Orders
 
 <span class="fs-1">
 [Try](https://apps.forguncy.net/meal-orders/){: .btn .btn-purple .mr-4 }
