@@ -22,14 +22,15 @@ Hands-on on Forguncy with sample templates. Download and use them as a template 
 [Try](https://apps.forguncy.net/basic-functionalities){: .btn .btn-purple .mr-2 }
 </span>
 <span class="fs-1">
-[Download](){: .btn .btn-green .mr-2 }
+[Download](/assets/sample-projects/00BasicFunction.fgcproj){: .btn .btn-green .mr-2 }
 </span>
 
-A demo application to demonstrate the basic features of Forguncy. You can view and try out the basic functionalities of Forguncy builder application. 
+A demo application to demonstrate all the basic features of Forguncy. Learn and try out the basic functionalities of the Forguncy Builder. 
 
 ![Basic-function](/assets/images/sample-templates/00BasicFunction.png)
 {: . dropshadow}
----
+
+#### [Back To Top](#sample-templates)
 
 ### Budgeting
 
@@ -53,10 +54,10 @@ An application that allows:
 ### Order Management
 
 <span class="fs-1">
-[Try](https://apps.forguncy.net/order-management/){: .btn .btn-purple .mr-4 }
+[Try](https://apps.forguncy.net/order-management/){: .btn .btn-purple .mr-2 }
 </span>
 <span class="fs-1">
-[Download](/assets/sample-projects/02OrderingSystem.fgcproj){: .btn .btn-green .mr-4 }
+[Download](/assets/sample-projects/02OrderingSystem.fgcproj){: .btn .btn-green .mr-2 }
 </span>
 
 
@@ -73,10 +74,10 @@ An application that allows:
 ### Meal Orders
 
 <span class="fs-1">
-[Try](https://apps.forguncy.net/meal-orders/){: .btn .btn-purple .mr-4 }
+[Try](https://apps.forguncy.net/meal-orders/){: .btn .btn-purple .mr-2 }
 </span>
 <span class="fs-1">
-[Download](/assets/sample-projects/03Bento.fgcproj){: .btn .btn-green .mr-4 }
+[Download](/assets/sample-projects/03Bento.fgcproj){: .btn .btn-green .mr-2 }
 </span>
 
 An application that allows: 
