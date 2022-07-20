@@ -96,7 +96,7 @@ An application that allows:
 ## Bug System
 
 <span class="fs-2">
-[Try](https://apps.forguncy.net/order-management/){: .btn .btn-purple .mr-2 }{:target="_blank"}
+[Try](https://apps.forguncy.net/bug-system/){: .btn .btn-purple .mr-2 }{:target="_blank"}
 </span>
 <span class="fs-2">
 [Download](/assets/sample-projects/04BugSystem.fgcproj){: .btn .btn-green .mr-2 }
@@ -109,7 +109,7 @@ An application that allows:
 ## Business Trip
 
 <span class="fs-2">
-[Try](http://apps.forguncy.net/bug-system){: .btn .btn-purple .mr-2 }{:target="_blank"}
+[Try](http://apps.forguncy.net/business-trip/){: .btn .btn-purple .mr-2 }{:target="_blank"}
 </span>
 <span class="fs-2">
 [Download](/assets/sample-projects/05BusinessTrip.fgcproj){: .btn .btn-green .mr-2 }
