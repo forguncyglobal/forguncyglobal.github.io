@@ -109,7 +109,8 @@ An application that allows:
 ## Business Trip
 
 <span class="fs-2">
-[Try](http://apps.forguncy.net/business-trip/){: .btn .btn-purple .mr-2 }{:target="_blank"}
+[Try](https://apps.forguncy.net/business-trip/){: .btn .btn-purple .mr-2 }{:target="_blank"}
+business-trip
 </span>
 <span class="fs-2">
 [Download](/assets/sample-projects/05BusinessTrip.fgcproj){: .btn .btn-green .mr-2 }
@@ -134,5 +135,5 @@ An application to extract, add or delete client and business information. You ca
 
 ---
 
-> ##### Watch [**Tutorials**](http://localhost:4000/getting-started/tutorials/#tutorials) to understand various functionalities of **Forguncy Builder**
+> ##### Watch [**Tutorials**](/getting-started/tutorials/#tutorials) to understand various functionalities of **Forguncy Builder**
 
