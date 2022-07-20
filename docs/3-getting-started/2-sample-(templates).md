@@ -110,7 +110,6 @@ An application that allows:
 
 <span class="fs-2">
 [Try](https://apps.forguncy.net/business-trip/){: .btn .btn-purple .mr-2 }{:target="_blank"}
-business-trip
 </span>
 <span class="fs-2">
 [Download](/assets/sample-projects/05BusinessTrip.fgcproj){: .btn .btn-green .mr-2 }
