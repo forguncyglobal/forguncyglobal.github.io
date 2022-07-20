@@ -13,6 +13,9 @@ Plug-ins are a way your Forguncy apps can be extended. They provide you addition
 Only the **Custom Menu/Tree** and the **Pass Listview** plugins are built-in and supported. The rest of the plugins are experimental and should be used at your own risk.
 {: .note}
 
+## How to Install##
+Each download below will be in ZIP format. Once you download it, you can go to the **Plugins** section on the Forguncy Builder 8 (aka Builder), and click on the **Download Plugin** button and specify the zip file that you downloaded. Once successfully installed, it will appear in the Plugins section of the Builder. If the plugin that you downloaded provides cell types, you'll notice new cell types listed in the cell types. Similarly, if the plugin that you downloaded provides commands, you'll notice additional commands in the list of commands.
+
 |Title|Download|
 |:-- |:--: |:--:|
 |**ActiveReports Viewer Command:**<br>Displays the ActiveReportsJS report on the browser.|[[download](/assets/plugins/ActiveReportsViewerCommand.zip)]|
