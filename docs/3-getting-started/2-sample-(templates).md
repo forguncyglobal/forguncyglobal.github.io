@@ -14,6 +14,9 @@ Hands-on on Forguncy with sample templates. Download and use them as a template 
 - [Budgeting](#budgeting)
 - [Order Management](#order-management)
 - [Meal Orders](#meal-orders)
+- [Bug System](#bug-system)
+- [Business Trip](#business-trip)
+- [Customer Management](#customer-management)
 
 ----
 ## Feature Demo
@@ -60,7 +63,6 @@ An application that allows:
 [Download](/assets/sample-projects/02OrderingSystem.fgcproj){: .btn .btn-green .mr-2 }
 </span>
 
-
 An application that allows: 
 - To  create a purchase order by inputting order data of ingredients. 
 - To enter order data on the matrix table format screen. 
@@ -88,6 +90,49 @@ An application that allows:
 ##### Note: On mobile app, you can only place a new order and delete a previous order.
 
 ![meal-orders](/assets/images/sample-templates/meal-orders.png)
+
+#### [Back To Top](#sample-templates)
+
+## Bug System
+
+<span class="fs-2">
+[Try](https://apps.forguncy.net/order-management/){: .btn .btn-purple .mr-2 }{:target="_blank"}
+</span>
+<span class="fs-2">
+[Download](/assets/sample-projects/04BugSystem.fgcproj){: .btn .btn-green .mr-2 }
+</span>
+
+![bug-system](/assets/images/sample-templates/04BugSystem.png)
+
+#### [Back To Top](#sample-templates)
+
+## Business Trip
+
+<span class="fs-2">
+[Try](http://apps.forguncy.net/bug-system){: .btn .btn-purple .mr-2 }{:target="_blank"}
+</span>
+<span class="fs-2">
+[Download](/assets/sample-projects/05BusinessTrip.fgcproj){: .btn .btn-green .mr-2 }
+</span>
+
+![business-trip](/assets/images/sample-templates/05BusinessTrip.png)
+
+#### [Back To Top](#sample-templates)
+
+## Customer Management
+
+<span class="fs-2">
+[Try](https://apps.forguncy.net/crm/){: .btn .btn-purple .mr-2 }{:target="_blank"}
+</span>
+<span class="fs-2">
+[Download](/assets/sample-projects/06CustomerManagement.fgcproj){: .btn .btn-green .mr-2 }
+</span>
+
+An application to extract, add or delete client and business information. You can manage the relationship between Clients, Contacts, Orders, and track Sales activities through Leads and activities.
+
+![customer-management](/assets/images/sample-templates/06CustomerManagement.png)
+
 ---
 
 > ##### Watch [**Tutorials**](http://localhost:4000/getting-started/tutorials/#tutorials) to understand various functionalities of **Forguncy Builder**
+
