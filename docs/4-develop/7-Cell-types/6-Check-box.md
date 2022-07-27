@@ -32,7 +32,7 @@ Steps to create a checkbox with cell type:
 |Set UI Permissions..|Allows you to do enable/ visible/editable settings.|
 |Checked by default|By defalut, it is marked as checked. Check/uncheck will pass "True" and "False" value respectively.|
 |Text|Allows you to specify the text to be displayed on the right side of the checkbox.|
-|Style|Allows you to choose from four options: *System, Modern, Toggele,* and *Button*. The default value is *Modern*.|
+|Style|Allows you to choose from four options: *System, Modern, Toggle,* and *Button*. The default value is *Modern*.|
 |Primary Color|Specifies the fill color of the checkbox. It is not applicable for *System* type style.|
 |Secondary Color|Specifies the color of the tick mark. It is not applicable for *System* type style.|
 |Read only|If checked, user cannot make changes to the state of the checkbox i.e. checkbox will appear in non-editable format.|
