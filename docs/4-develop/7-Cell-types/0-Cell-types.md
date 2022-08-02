@@ -18,7 +18,8 @@ A cell type defines the type of information that a cell can present, how that in
 - Go to **Cell Type**.
 - Select the required cell type.
 
-![Setting the cell type](image.png)
+![celltypes](/assets/images/product-images/cell-type-basic.gif)
+{:.dropshadow}
 
 At present, Forguncy offers following cell types: 
 
