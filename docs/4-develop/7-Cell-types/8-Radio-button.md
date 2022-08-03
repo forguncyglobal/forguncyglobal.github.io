@@ -39,11 +39,22 @@ Steps to create a radio group with cell type:
 <!-- |Show cell type only in edit mode|If you remove the check, the radio button will be displayed even when not editing. This item can only be set in cell types on the list view.| -->
 - Data concatenation can be performed when necessary. To concatenate data use two radio groups to narrow your options. When you select a value in Radio Group A, you can use Query Criteria to display only the choices related to that value in Radio Group B. 
 
-    Steps are:
-    - Create a table and then two radio groups.
-    - Set the cell type to display the country name in the first radio group.
-    - Set the second radio group to display the city name and click Query Criteria.
-    - Set the query conditions as follows. Set the Country field values ​​to be filtered by the values ​​in the first radio group. If you select a country name in the first radio group, the city name will be narrowed down by that value and displayed in the second radio group.
+    Let’s consider an Example showing steps to narrow down State names in the second radio group on the selection of Country names in the first radio group:
+
+    ![radio-group-table](/assets/images/product-images/radio-group-table.png)
+    {:.dropshadow}
+
+    - Create a table with country and state data.
+    - Create two radio groups. 
+    - Set the first radio group to display the country name.
+    - Set the second radio group to display the state name and then click on **Data Queries**.
+
+    ![radio-group-data-queries](/assets/images/product-images/radio-group-data-queries.png)
+    {:.dropshadow}
+    
+    - Define new condition in the **Data Queries** dialog box. 
+    - Select *Country* in **Column**, *equal to* in **Operator**, and starting cell number of the first radio group in **Value** field. 
+   
 
 Note: List view does not support this feature.
 {:.note}
