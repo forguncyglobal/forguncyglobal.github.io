@@ -39,15 +39,15 @@ Shortcut keys help you work more efficiently in Forguncy Builder. They are basic
 |**Ctrl+arrow keys**|In the workspace, move to the leftmost/rightmost/topmost/bottommost cell in the row containing the selected cell|
 |**Shift+arrow key**|Extends the cell selection area up, down, left, and right|
 |**Backspace**|Deletes one character to the left of the cursor in a cell or typing in the formula bar. Clears text and formulas in the selected cells while preserving the cell formatting|
-|**Delete**|Deletes one character to the right of the cursor in a cell or typing in the formula bar. Clears text, formulas and data binding settings for multiple selected cells while preserving cell formatting|
+|**Delete**|Deletes one character to the right of the cursor in a cell or typing in the formula bar. Clears text, formulas, and data binding settings for multiple selected cells while preserving cell formatting|
 |**End**|Moves to the rightmost cell in the row containing the selected cell in the workspace|
 |**Ctrl+End**|In the workspace, go to the bottom right corner cell|
 |**Home**|Moves to the leftmost cell in the row containing the selected cell in the workspace|
 |**Ctrl+Home**|In the workspace, go to the cell in the upper left corner|
-|**Enter**|Complete entry in the cell or formula bar to select the cell below. Executes the action of the default command button (OK, Open, etc.) within the dialog|
+|**Enter**|The complete entry in the cell or formula bar to select the cell below. Executes the action of the default command button (OK, Open, etc.) within the dialog|
 |**Alt+Enter**|Line breaks within the same cell|
 |**Shift+Enter**|Complete the cell entry and select the cell above. <br/> * When inputting in the formula bar, it is the same as Enter|
-|**Esc**|Cancels typing in a cell or formula bar. Closes open menus, submenus, dialogs and message windows|
+|**Esc**|Cancels typing in a cell or formula bar. Closes open menus, submenus, dialogs, and message windows|
 |**Page Down**|Within the workspace, navigate to the screen below|
 |**Ctrl+Page Down**|Move to the next page or table in the workspace|
 |**Page Up**|Within the workspace, navigate to the screen above|
