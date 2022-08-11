@@ -71,6 +71,7 @@ Using this function, you can create a four types of pages:
 2. Detail page
 3. Registration page
 4. Edit page.
+
 <!-- For tables with detail tables in master-detail relationships, detail list views are auto-generated on detail pages, registration pages, and edit pages. You can edit and drag items on the edit page and the details list view on the registration page. 
 
 Note: If the table from which the page is generated has the following fields, by assigning the field types to different types , images and attachments can be displayed, or user account information can be separated into individual fields. You can 
@@ -97,5 +98,5 @@ The related following pages are automatically created. You can edit them as requ
 - Registration page
 - Edit page
 
-    ![from-table-page](/assets/images/product-images/from-table-created-page-2.png)
-    {:.dropshadow}
+![from-table-page](/assets/images/product-images/from-table-created-page-2.png)
+{:.dropshadow}
