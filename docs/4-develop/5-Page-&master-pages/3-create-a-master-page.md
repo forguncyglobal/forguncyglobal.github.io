@@ -15,105 +15,126 @@ When you apply a master page to a page, that page appears as a child page in a p
 
 A page with a master page applied will have an icon to the right of the page name in the navigation window .
 
-Note: You can create master pages for mobile devices. Mobile master pages can only be applied to mobile pages. The creation method and operation are the same as for a normal master page. A mark appears in the navigation window.
-{:.note}
+![master-page](/assets/images/product-images/master_page.png)
+{:.dropshadow}
 
-Note: If the size of the child page is larger than the size of the placeholder on the master page, how the child page is displayed depends on how it is displayed on the master page in the child page's Page Setup pane. It depends on your settings. See Applying Master Pages for more information.
+You can create master pages for mobile devices. Mobile master pages can only be applied to mobile pages. The creation method and operation are the same as for a normal master page. An icon to the right of the page name in the navigation window will apear.
+
+Note: If the size of the child page is larger than the size of the placeholder on the master page, the child page will be displayed as as per the settings. See [Applying Master Pages](#applying-master-pages) for more information.
 {:.note}
 
 Steps to create a new master page:
-- Click Create ribbon tab - Master Page.
-- Select a template for the master page in the Select Template dialog. The first template is a top banner and vertical menu, the second template is a top banner and horizontal menu, and the third template is a blank template. Templates 1 and 2 are affected by theme changes. After selecting a template, click the OK button to create a new master page.
-- Edit the master page.
+
+- Go to **Create** and select **Master Page**.
+![create-master-page](/assets/images/product-images/create_master_page.png)
+{:.dropshadow}
+
+- Select a template for the master page in the **Select Page Template** dialog. The first template is a top banner and vertical menu, the second template is a top banner and horizontal menu, and the third template is a blank template. 
+    
+Note: Templates 1 and 2 get affected by theme changes. 
+{:.note}
+
+- After selecting a template, click the **OK** button to create a new master page.
+- Edit the master page as required.
 
 Note: You can also duplicate an existing master page to create a new master page.
 {:.note}
 
 ##### Resizing
 Resize to change the size of the placeholder:
-- Select the placeholder to be resized and click Placeholder Tool [Design] > [Start resizing].
-- Drag the corners to resize.
-- Click [Placeholder Tools] > [Finish Resize]. When you apply the master page, the child pages show dotted lines in the areas that can be displayed for placeholders.
 
-Note: If the child page does not fit in the placeholder, you can select one of the following three display methods in "How to display on the master page" in the page settings of the child page: overflow, scroll, cut
-{:.note}
+![create-master-page-resize](/assets/images/product-images/create_master_page_resize.png)
+{:.dropshadow}
+
+- Click on the placeholder and select **Design** -> **Start Resize**.
+- The **Start Resize** gets converted to **End Resize**. 
+- Drag the corners to resize and click on **End Resize** to finish. 
+- Apply the master page to child pages. The child pages will show dotted lines in the areas that can be displayed in the placeholder.
+
+If the child page does not fit in the placeholder, you can set **Page Overflow Mode** as *Overflow, Scroll, or Cut* in the page setting of the child page. 
+
+|Overflow|The placeholder expands to fit the size of the child page to show all content.|
+|Scroll|A scroll bar appears. It is effective only in the horizontal direction.|
+|Cut|The child page is displayed to the size of the placeholder. The protruding part is cut off. It is effective only in the horizontal direction.|
 
 ##### Page Setup For Master Pages
-After selecting and opening the master page you want to edit from the navigation window, click the [Page Settings] tab at the bottom of the right pane to configure settings.
+- Open the master page you want to edit. 
+- Configure settings by clicking on the **Page** tab at the bottom of the right pane.
 
-|name|Sets the name of the master page.|
-|Number of lines|Sets the number of lines on the page.|
-|number of columns|Sets the number of columns on the page.|
-|Page stretch mode|The page will stretch or shrink depending on the browser at runtime. For more information, see Page Stretch|
+![create-master-page-settings](/assets/images/product-images/create_master_page_settings.png)
+{:.dropshadow}
+
+|**Name**|Sets the name of the master page.|
+|**Row count**|Sets the number of rows on the page.|
+|**Columns**|Sets the number of columns on the page.|
+|**Page stretch mode**|The page will stretch or shrink depending on the browser at runtime.|
 
 ## Create A New Mobile Master Page
-- Click Create ribbon tab - Mobile Master Page.
-- Select a template for the master page in the Select Template dialog. The first template is a top banner and bottom menu, the second template is a blank template. The first template is affected by theme changes.
-- Edit the mobile master page.
-    Note: You can also clone an existing mobile master page to create a new mobile master page.
-    Right-click the master page in the Navigation Pane and select Duplicate.
-    {:.note}
+Steps to create a new mobile master page:
+
+![create-mobile-master-page](/assets/images/product-images/create_mobile_master_page.png)
+{:.dropshadow}
+
+- Go to **Create** and click on **Mobile Master Page**.
+- Select a template for the master page in the **Select Page Template** dialog. The first template is a top banner and bottom menu, the second template is a blank template. 
+
+Note: The first template gets affected by theme changes.
+{:.note}
+
+- After selecting a template, click the **OK** button to create a new mobile master page.
+- Edit the master page as required.
+
+Note: You can also clone an existing mobile master page to create a new mobile master page. Right-click on the master page in the Navigation Pane and select **Duplicate**.
+{:.note}
 
 ##### Resize Placeholder
-Child mobile pages appear in placeholders on the master mobile page.
-If you want to change the size of this placeholder, perform a resize.
-- Select the placeholder to be resized and click Placeholder Tool [Design] > [Start resizing]. A blue line surrounds the placeholder.
-- Drag the corners to resize.
-- Click [Placeholder Tools] > [Finish Resize].
+Child mobile pages appear in the placeholder of the master mobile page. To change the size of the placeholder:
 
-##### Apply Master Mobile Page Created To Mobile Page
-- Specify the master page name you want to apply in the page settings of the mobile page.
-- On the mobile page, the area that can be displayed for the placeholder is indicated by a dotted line. If you specify a mobile master page, the mobile page will show dotted lines in the areas that can be displayed for placeholders.
+![create-mobile-master-page-resize](/assets/images/product-images/create_mobile_master_page_resize.png)
+{:.dropshadow}
 
-Note: If the child page does not fit in the placeholder, you can select one of the following three display methods in "How to display on the master page" in the page settings of the child page.
-{:.note}
-- overflow
-- scroll
-- cut
-{:.note}
+Click on the placeholder and select **Design** -> **Start Resize**.
+- The **Start Resize** gets converted to **End Resize**. 
+- Drag the corners to resize and click on **End Resize** to finish. 
+- Apply the master page to child pages. The child pages will show dotted lines in the areas that can be displayed in the placeholder.
 
-##### Mobile Master Page Page Setup
-After selecting and opening the mobile master page from the navigation window, click the [Page Setup] tab at the bottom of the right pane to configure settings
+If the child page does not fit in the placeholder, you can set **Page Overflow Mode** as *Overflow, Scroll, or Cut* in the page setting of the child page. 
 
-|Name|Sets the name of the mobile master page.|
-|Number of lines|Sets the number of lines on the page.|
-|Number of columns|Sets the number of columns on the page.|
-|Page stretch mode|The page will stretch or shrink depending on the browser at runtime. <br/>For more information, see Page stretching.|
+##### Page Setup For Mobile Master Pages
+- Open the mobile master page you want to edit. 
+- Configure settings by clicking on the **Page** tab at the bottom of the right pane.
+
+![create-mobile-master-page-settings](/assets/images/product-images/create_mobile_master_page_settings.png)
+{:.dropshadow}
+
+|**Name**|Sets the name of the mobile master page.|
+|**Row count**|Sets the number of rows on the page.|
+|**Columns**|Sets the number of columns on the page.|
+|**Page stretch mode**|The page will stretch or shrink depending on the browser at runtime.|
 
 ## About Built-in Master Pages
-When you create a new project in Forguncy, one master page is already prepared.
-You can customize and use this master page.
+When you create a new project in Forguncy, one master page is already available.
+You can customize and use this master page as required.
 
 Note: Names cannot be changed or deleted.
 {:.note}
 
-After selecting and opening the built-in master page you want to edit from the navigation window, click the [Page Settings] tab at the bottom of the right pane to configure settings.
-
-|Number of lines|Sets the number of lines on the page.|
-|Number of columns|Sets the number of columns on the page.|
-|Page reset|Returns the built-in master page being edited to its default state.|
-|Page stretch mode|The page will stretch or shrink depending on the browser at runtime.
-For more information, see Page Stretch.|
+Follow the steps mentioned in [Page Setup For Master Pages](#page-setup-for-master-pages) to configure settings.
 
 ## Applying Master Pages
 You can use master pages to give your pages a consistent look, titles, and common menu items.
-This section describes how to apply a master page to your pages.
 
-Note: You can create a master page for mobile devices and apply it to your mobile pages. Mobile master pages can only be applied to mobile pages. The application method is the same as for a normal master page.
+- Right-click on the page name.
+- Select **Set Master Page** to apply the master page.
+- Select the name of the master page to apply. 
+
+When a master page is applied, an icon will appear next to the page name in the Navigation Pane. Icons are different for normal and mobile pages.
+
+Note: Mobile master pages can only be applied to mobile pages. The application method is the same as for a normal master page.
 {:.note}
-
-- Right-click the page to apply the master page in the navigation window → [Master Page Settings] → click the name of the master page to apply. When a master page is applied, a mark will appear next to the page name in the Navigation Pane. When a mobile master page is applied, a mark will appear next to the page name in the navigation pane.
 
 ##### Applied Master Page Page Settings
 Set the applied master page in the "Page Setup" pane.
 This section describes settings related to master pages.
-
-##### How to display the master page
-Set the processing when the child page cannot be displayed in the placeholder of the master page.
-
-|Overflow|The placeholder expands to fit the size of the child page to show all content.|
-|Scroll|A scroll bar appears. * This setting is effective only in the horizontal direction.|
-|Cut|The child page is displayed to the size of the placeholder (the protruding part is cut off). * This setting is effective only in the horizontal direction.|
-
 
 

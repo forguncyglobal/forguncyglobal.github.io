@@ -22,15 +22,15 @@ If login fails, check for user authentication modes. It might be different.
 
 |Built-in page name / Built-in mobile page name|Explanation|Form Authentication|Windows authentication|
 |:--|:--|:--|:--|:--|
-|401 pages|The page displayes when you access a page for which you do not have permission.|●|●|
-|Under maintenance now|A page displays temporarily to indicate that it is under maintenance.|●|●|
-|Password reset|A page for users to reset their passwords.|●|-|
-|Send password reset link|A page that sends password reset emails to users who have forgotten their passwords.|●|-|
-|Change Password|A page where users can change their password.|●|-|
-|If you forget your password|A page that emails you a link for a password reset page, if you forget your password.|●|-|
-|Edit Profile|User profile edit page.|●|-|
-|Email Subscription|Change email notification settings page.|●|●|
-|Login|login page.|●|-|
+|401 pages|The page displayes when you access a page for which you do not have permission.|✓|✓|
+|Under maintenance now|A page displays temporarily to indicate that it is under maintenance.|✓|✓|
+|Password reset|A page for users to reset their passwords.|✓|-|
+|Send password reset link|A page that sends password reset emails to users who have forgotten their passwords.|✓|-|
+|Change Password|A page where users can change their password.|✓|-|
+|If you forget your password|A page that emails you a link for a password reset page, if you forget your password.|✓|-|
+|Edit Profile|User profile edit page.|✓|-|
+|Email Subscription|Change email notification settings page.|✓|✓|
+|Login|login page.|✓|-|
 
 Note: If you change the user authentication mode from Forms authentication to Windows authentication, built-in pages that are not required for Windows authentication will be deleted. 
 {:.note}
