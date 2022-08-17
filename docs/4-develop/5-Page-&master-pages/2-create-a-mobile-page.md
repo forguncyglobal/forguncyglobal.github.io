@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Create A Mobile Page
+title: Create a Mobile Page
 parent: Page &amp; Master Pages
 grand_parent: Develop
 permalink: /develop/Page-&-master-pages/create-a-mobile-page/

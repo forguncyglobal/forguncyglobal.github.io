@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Create A Normal Page
+title: Create a Normal Page
 parent: Page &amp; Master Pages
 grand_parent: Develop
 permalink: /develop/Page-&-master-pages/create-a-normal-page/
@@ -9,11 +9,11 @@ nav_order: 1
 
 # {{ page.title }}
 
-- [Create A New Page](#create-a-new-page)
-- [Create Page From Excel](#create-page-from-excel)
-- [Create Page From Table](#create-page-from-table)
+- [Create a New Page](#create-a-new-page)
+- [Create Page from Excel](#create-page-from-excel)
+- [Create Page from Table](#create-page-from-table)
 
-## Create A New Page
+## Create a New Page
 
 Steps to create a new web page are:
 - Go to **Create** and select **Page**.
@@ -28,7 +28,7 @@ Steps to create a new web page are:
 Note: You can also rename by double-clicking the tab at the bottom of the workspace, just like in Excel.
 {:.note}
 
-## Create Page From Excel
+## Create Page from Excel
 
 You can import an Excel file into your page in two ways:
 
@@ -63,7 +63,7 @@ Note: Forguncy supports only following items in Excel. Items that are not mentio
 |sheet|image * If the Excel file to be imported is an XLS file (Excel 97 - 2003 workbook), the image will not be reflected. page settings|
 {:.note}
 
-## Create Page From Table
+## Create Page from Table
 
 Based on the field configuration of the specified table, you can automatically generate the web pages to display data or update the table.
 Using this function, you can create a four types of pages: 

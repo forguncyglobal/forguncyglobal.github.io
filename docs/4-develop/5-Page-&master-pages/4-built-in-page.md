@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Built In Page
+title: Built-in Page
 parent: Page &amp; Master Pages
 grand_parent: Develop
 permalink: /develop/Page-&-master-pages/built-in-page/

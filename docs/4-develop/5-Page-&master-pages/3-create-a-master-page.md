@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Create A Master Page
+title: Create a Master Page
 parent: Page &amp; Master Pages
 grand_parent: Develop
 permalink: /develop/Page-&-master-pages/create-a-master-page/
@@ -57,7 +57,7 @@ If the child page does not fit in the placeholder, you can set **Page Overflow M
 |Scroll|A scroll bar appears. It is effective only in the horizontal direction.|
 |Cut|The child page is displayed to the size of the placeholder. The protruding part is cut off. It is effective only in the horizontal direction.|
 
-##### Page Setup For Master Pages
+##### Page Setup for Master Pages
 - Open the master page you want to edit. 
 - Configure settings by clicking on the **Page** tab at the bottom of the right pane.
 
@@ -69,7 +69,7 @@ If the child page does not fit in the placeholder, you can set **Page Overflow M
 |**Columns**|Sets the number of columns on the page.|
 |**Page stretch mode**|The page will stretch or shrink depending on the browser at runtime.|
 
-## Create A New Mobile Master Page
+## Create a New Mobile Master Page
 Steps to create a new mobile master page:
 
 ![create-mobile-master-page](/assets/images/product-images/create_mobile_master_page.png)
@@ -100,7 +100,7 @@ Click on the placeholder and select **Design** -> **Start Resize**.
 
 If the child page does not fit in the placeholder, you can set **Page Overflow Mode** as *Overflow, Scroll, or Cut* in the page setting of the child page. 
 
-##### Page Setup For Mobile Master Pages
+##### Page Setup for Mobile Master Pages
 - Open the mobile master page you want to edit. 
 - Configure settings by clicking on the **Page** tab at the bottom of the right pane.
 
