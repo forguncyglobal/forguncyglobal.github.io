@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Open From Git Repository
+title: Open from Git Repository
 parent: Project
 grand_parent: Develop
 permalink: /develop/Project/open-from-git-repository/

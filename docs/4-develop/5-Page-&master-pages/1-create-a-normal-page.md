@@ -17,7 +17,7 @@ nav_order: 1
 
 Steps to create a new web page are:
 - Go to **Create** and select **Page**.
-- A new page with defalut name (*Page 1, Page 2..*) will be added in the navigation bar. 
+- A new page with default name (*Page 1, Page 2..*) will be added in the navigation bar. 
 ![create-new-page](/assets/images/product-images/create-normal-page.png)
 {:.dropshadow}
 - Right-click on the page name and select **Rename** to rename the page.

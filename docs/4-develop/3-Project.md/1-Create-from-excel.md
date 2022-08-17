@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Create From Excel
+title: Create from Excel
 parent: Project
 grand_parent: Develop
 permalink: /develop/Project/Create-from-excel/
