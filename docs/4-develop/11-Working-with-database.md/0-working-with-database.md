@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Working With Database
+title: Working with Database
 parent: Develop
 permalink: /develop/Working-with-database/
 nav_order: 11
