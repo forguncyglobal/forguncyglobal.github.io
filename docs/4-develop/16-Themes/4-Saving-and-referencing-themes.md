@@ -9,13 +9,23 @@ nav_order: 4
 
 # {{ page.title }}
 
-If you have customized the default theme, you can save it as a Forguncy theme file. You can apply a customized theme by importing that file in another project.
+If you have customized the default theme, you can save it as a Forguncy theme file. You can apply a customized theme by importing that file into another project.
 
 ## Save theme
-After customizing the theme color scheme, theme fonts, and theme images, from the Design ribbon tab, click the icon and select Save Current Theme. Then enter a name for the file to save and click the Save button.
-Themes are saved as files with the extension "FGCTHEME".
+
+After customizing the theme color scheme, fonts, and images, from the **Design** ribbon tab, select **Save Current Theme..**. Enter a file name and click the **Save** button.
+
+![theme-save-current-themes](/assets/images/product-images/themes-save-current-themes.png)
+{:.dropshadow}
+
+Note: Themes are saved as files with the extension "FGCTHEME".
+{:.note}
 
 ## Theme reference
-If you have a saved Forguncy theme file, you can apply the theme to the current project by loading that file.
+This feature allows you to browse the saved Forguncy theme file and apply it to the current project. 
 
-Click [Browse Themes...], select the target Forgunncy theme file, and click the [Open] button.
+![theme-browse-theme](/assets/images/product-images/themes-browse-theme.png)
+{:.dropshadow}
+
+- Click **Browse for Themes...**.
+- Select the target Forguncy theme file and click the **Open** button.

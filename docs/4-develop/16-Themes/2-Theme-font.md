@@ -9,9 +9,16 @@ nav_order: 2
 
 # {{ page.title }}
 
-Fonts are one of the elements that make up a theme. After selecting a theme, you can change the theme's font.
+Fonts are another important element of a theme. You can change the theme's font after selecting a theme.
 
-Click [Design] ribbon tab - [Font], select the font you want to set from the font list, and apply it.
+![theme-fonts](/assets/images/product-images/theme-fonts.png)
+{:.dropshadow}
+
+- Go to **Design** ribbon tab.
+- Click **Fonts** dropdown.
+- Select the font you want to set from the font list to apply.
+
+
 
 If you change the font, all elements that have the theme's font applied will update to the new font.
 

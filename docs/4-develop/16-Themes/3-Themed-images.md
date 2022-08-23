@@ -9,21 +9,35 @@ nav_order: 3
 
 # {{ page.title }}
 
-Images are one of the elements that make up a theme. These images are used in the default built-in pages and master pages. After selecting a theme, you can change the theme image.
+Images are another element of a theme. These images are used in the default built-in pages and master pages. After selecting a theme, you can change the theme image.
 
-Click Design ribbon tab - Image to display the Theme Image dialog.
+![theme-images](/assets/images/product-images/theme-images.png)
+{:.dropshadow}
 
-"Background (Normal Master Page)", "Banner (Normal Master Page)", "Background (Normal Page)", "Background (Mobile Login Page)", "Banner (Mobile Master Page)" and three different sizes A total of 8 images of "background (normal login page)" are displayed in the dialog.
+- Go to the **Design** ribbon tab.
+- Click **Images**.
+- **Set Theme Images** dialog will appear. There is a total of *eight* images available for background and banner. 
 
-Theme images can be edited and deleted.
+![theme-set-theme-images](/assets/images/product-images/theme-set-theme-images.png)
+{:.dropshadow}
+
+- You can edit or delete theme images by clicking on options available in the top right corner of the individual theme. 
 
 ## Image editing
 
-- After selecting the [Background (normal login page)] image, click the [ ] icon, upload the image, and click the [OK] button.
-- You can confirm that the background image of the [FGC_login] page has been changed.
-If you select a different theme, the background image you set will be reset and reverted to the original.
+![themes-image-edit](/assets/images/product-images/themes-image-edit.png)
+{:.dropshadow}
+
+- Hover on the theme you want to edit.
+- Click on the **Edit** option available in the top right corner..
+- Upload image and click on **OK** to apply.
 
 ## Delete image
 
-- After selecting an image, click the [ ] icon. For example, click the [ ] icon for [Banner (normal master page)].
-- You can confirm that the banner image has been deleted when you try to create a new [Banner (normal master page)].
+![themes-image-delete](/assets/images/product-images/themes-image-delete.png)
+{:.dropshadow}
+
+- Hover on the theme you want to delete.
+- Click on the **Delete** option available in the top right corner.
+- Confirm the deletion by clicking **Yes**.
+- The image will get removed and *(None)* will appear in its place.
