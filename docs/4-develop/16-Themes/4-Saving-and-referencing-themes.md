@@ -21,7 +21,7 @@ After customizing the theme color scheme, fonts, and images, from the **Design**
 Note: Themes are saved as files with the extension "FGCTHEME".
 {:.note}
 
-## Theme reference
+## Theme Reference
 This feature allows you to browse the saved Forguncy theme file and apply it to the current project. 
 
 ![theme-browse-theme](/assets/images/product-images/themes-browse-theme.png)
