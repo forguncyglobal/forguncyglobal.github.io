@@ -10,7 +10,7 @@ nav_order: 15
 
 Here, you can streamline the application approval process by configuring the business processes flow. Various activities in an organization require approval from superiors and heads. The workflow console allows you to create an application approval process based on organizational structure and user information specified in User Service. 
 
-Forguncy provides easy-to-use workflow functionalities where you can create different states and define rules for each state. The workflow functionalities are offered to the user by a specific cell type. 
+Forguncy provides easy-to-use workflow functionalities where you can create different states and define rules for each state. The workflow functionalities are offered to the user by a [Process Bar](https://docs.forguncy.net/develop/Cell-types/Process-bar/) cell type. 
 
 
 - [Overview](#overview)
