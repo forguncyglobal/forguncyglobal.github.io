@@ -17,7 +17,7 @@ You can enter the time directly or  click **▼** of the time input, a drop-down
 ![time_celltype_input](/assets/images/product-images/time_celltype_input.png)
 {:.dropshadow}
 
-Steps to create a Date cell type:
+Steps to create a Time cell type:
 
 - Select a cell and go to the **Cell Type** drop-down list. 
 - Select **Time** cell type. The selected cell becomes the time type. You can merge cells or adjust cell widths to fit the time digits.

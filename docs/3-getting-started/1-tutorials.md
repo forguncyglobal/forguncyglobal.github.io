@@ -57,7 +57,7 @@ Go to **Lessons** and open **Create Table & List View**. Either you can follow o
 7. Next step is to create a data Listing Page. For this double-click on **Page1** to open a page.
 8. Select cell-range and click on **Insert Listview**.
 9. Select table from **Select Table** popup window.
-10. Click on **OK** to create a list view area.
+10. Click on **OK** to create a listview area.
 11. To define columns, make a cell selection in the second row, and click on **Binding**.
 12. In **Binding Field**, select column name from the dropdown list.
 13. Repeat step 11 and 12 to define other columns of the table.
@@ -83,7 +83,7 @@ Go to **Lessons** and open **Create New Record Screen**. Either you can follow o
 11. Select **Update Data Table** and **Add** radio button in **Command Window**.
 12. Click on **New Command** and select **Command** as **Navigate**.
 13. Select target page in **Select Page** filed and click on **OK**.
-13. Go to the target page i.e. list view page to reflect enteries.
+13. Go to the target page i.e. listview page to reflect enteries.
 14. Select cell and enter text as "Add" 
 15. Go to **Cell Type** and select **Hyperlink**. Click on **Cell Type** (right pane)->**Commands**.
 16. Click on **New Command** and select **Command** as **Navigate**. 
@@ -102,8 +102,8 @@ Go to **Lessons** and open **Update & Delete Records**. Either you can follow on
 4. Rename "Add" button as "Edit" button.
 5. Select "Edit" button and go to **Cell Type** (right pane)->**Commands**.
 6. Select **Edit** radio button in **Command Window** and click on **Ok**.
-7. Double-click on the list view page to create hyperlink for the transition from list screen to edit screen.
-8. Select a cell-range next to the last column and second row of the list view.
+7. Double-click on the listview page to create hyperlink for the transition from list screen to edit screen.
+8. Select a cell-range next to the last column and second row of the listview.
 9. Select hyperlink or button cell type.
 10. Input "Edit" in the cell-range and go to **Cell Type** (right pane)->**Commands**.
 11. In **Command Window**, select "Navigate" in **Command** and "Edit Page" in **Select page** field.
@@ -117,7 +117,7 @@ Learn how to set formula in Forguncy like excel. Forguncy supports about 300 fun
 
 Go to **Lessons** and open **Excel-like Formulas**. Either you can follow on screen instructions or the steps mentioned below:
 
-1. Select a cell range in the list view. Right-click and select **Insert** to insert a column.
+1. Select a cell range in the listview. Right-click and select **Insert** to insert a column.
 2. Select cell range of the inserted column and click on the **Merge Cells**.
 3. Input column header name as required.
 4. Input formula in the formula bar just like Excel.
@@ -127,12 +127,12 @@ Go to **Lessons** and open **Excel-like Formulas**. Either you can follow on scr
 8. Click on **Home**->**Start** to check the result in the web browser. 
 
 ## Export To Excel
-Learn to export page or list view to the Excel file.
+Learn to export page or listview to the Excel file.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Es3ax2GEy48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Go to **Lessons** and open **Export To Excel**. Either you can follow on screen instructions or the steps mentioned below:
 
-1. Select cell range outside the list view.
+1. Select cell range outside the listview.
 2. Select **Button** cell type.
 3. Input name of the button such as Export; Export to Excel, etc.
 4. Go to **Cell Type** (right pane)->**Commands**.
@@ -241,12 +241,12 @@ Go to **Lessons** and open **Aggregated Fields**. Either you can follow on scree
 20. Click on **Home**->**Start** to check the result in the web browser.
 
 ## Charts
-The lesson is about adding a chart for the list view that you have created.
+The lesson is about adding a chart for the listview that you have created.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hpf1MVN_3aQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Go to **Lessons** and open **Charts**. Either you can follow on screen instructions or the steps mentioned below:
 
-1. Select the list view for which you want to add chart.
+1. Select the listview for which you want to add chart.
 2. Go to **Insert** tab->**Column**.
 3. Click and select the chart.
 4. You can change the chart's location, resize width and height similar to excel.
