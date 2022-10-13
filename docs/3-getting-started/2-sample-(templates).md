@@ -137,9 +137,9 @@ An application to extract, add or delete client and business information. You ca
 
 ## Delivery Management
 
-<span class="fs-2">
+<!--<span class="fs-2">
 [Try](https://apps.forguncy.net/delivery-management/){: .btn .btn-purple .mr-2 }{:target="_blank"}
-</span>
+</span> -->
 <span class="fs-2">
 [Download](/assets/sample-projects/07DeliveryManagement.fgcproj){: .btn .btn-green .mr-2 }
 </span>
