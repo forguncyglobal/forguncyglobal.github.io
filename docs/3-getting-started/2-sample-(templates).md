@@ -17,6 +17,7 @@ Hands-on on Forguncy with sample templates. Download and use them as a template 
 - [Bug System](#bug-system)
 - [Business Trip](#business-trip)
 - [Customer Management](#customer-management)
+- [Delivery Management](#delivery-management)
 
 ----
 ## Feature Demo
@@ -131,6 +132,21 @@ An application that allows:
 An application to extract, add or delete client and business information. You can manage the relationship between Clients, Contacts, Orders, and track Sales activities through Leads and activities.
 
 ![customer-management](/assets/images/sample-templates/06CustomerManagement.png)
+
+#### [Back To Top](#sample-templates)
+
+## Delivery Management
+
+<span class="fs-2">
+[Try](https://apps.forguncy.net/delivery-management/){: .btn .btn-purple .mr-2 }{:target="_blank"}
+</span>
+<span class="fs-2">
+[Download](/assets/sample-projects/07DeliveryManagement.fgcproj){: .btn .btn-green .mr-2 }
+</span>
+
+An application to manage delivery items. You can register and edit the delivery information for items. You can also search past information and export the details in an Excel file, or create a summary.
+
+![customer-management](/assets/images/sample-templates/Delivery-management.png)
 
 ---
 
