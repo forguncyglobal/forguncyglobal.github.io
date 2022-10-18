@@ -18,6 +18,8 @@ Hands-on on Forguncy with sample templates. Download and use them as a template 
 - [Business Trip](#business-trip)
 - [Customer Management](#customer-management)
 - [Delivery Management](#delivery-management)
+- [Material Management](#material-management)
+- [Purchase Bill](#purchase-bill)
 
 ----
 ## Feature Demo
@@ -147,6 +149,36 @@ An application to extract, add or delete client and business information. You ca
 An application to manage delivery items. You can register and edit the delivery information for items. You can also search past information and export the details in an Excel file, or create a summary.
 
 ![customer-management](/assets/images/sample-templates/Delivery-management.png)
+
+#### [Back To Top](#sample-templates)
+
+## Material Management
+
+<!--<span class="fs-2">
+[Try](https://apps.forguncy.net/material-management/){: .btn .btn-purple .mr-2 }{:target="_blank"}
+</span> -->
+<span class="fs-2">
+[Download](/assets/sample-projects/08MaterialManagement.fgcproj){: .btn .btn-green .mr-2 }
+</span>
+
+An Inventory Management application where you can place and edit orders from a list of goods, track the orders, manage the inventory and other production processes.
+
+![material-management](/assets/images/sample-templates/Material-management.png)
+
+#### [Back To Top](#sample-templates)
+
+## Purchase Bill
+
+<!--<span class="fs-2">
+[Try](https://apps.forguncy.net/purchase-bill/){: .btn .btn-purple .mr-2 }{:target="_blank"}
+</span> -->
+<span class="fs-2">
+[Download](/assets/sample-projects/09PurchaseBill.fgcproj){: .btn .btn-green .mr-2 }
+</span>
+
+A bill management application which enables you to register bill entries, search lists of entries, see the trends and summarize them.
+
+![purchase-bill](/assets/images/sample-templates/purchase-bill.png)
 
 ---
 
