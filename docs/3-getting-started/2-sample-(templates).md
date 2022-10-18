@@ -163,7 +163,7 @@ An application to manage delivery items. You can register and edit the delivery 
 
 An Inventory Management application where you can place and edit orders from a list of goods, track the orders, manage the inventory and other production processes.
 
-![material-management](/assets/images/sample-templates/Material-management.png)
+![material-management](/assets/images/sample-templates/material-management.png)
 
 #### [Back To Top](#sample-templates)
 
