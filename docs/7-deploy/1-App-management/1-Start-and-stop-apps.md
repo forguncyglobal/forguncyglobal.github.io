@@ -9,7 +9,7 @@ nav_order: 1
 
 # {{ page.title }}
 
-Applications published to the server must be started before users can access them (they are automatically in the started state when the application is published).
+Applications published to the server must be started before users can access them.
 
 Also, when performing database maintenance using the "Obtain operational database" function, the application must be put into maintenance mode or stopped.
 
