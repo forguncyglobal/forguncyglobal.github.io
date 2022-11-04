@@ -20,9 +20,9 @@ Forguncy provides easy-to-use workflow functionalities where you can create diff
 
 ## Overview
 
-The flow of a series of business processes is called **Workflow**. Workflows are different processes that automatically share documents, information, or tasks between multiple participants under some predefined rules to achieve a perticular business goal.
+The flow of a series of business processes is called **Workflow**. Workflows are different processes that automatically share documents, information, or tasks between multiple participants under some predefined rules to achieve a particular business goal.
 
-Let's consider a scenario where an employee submits a business trip application. After submitting the application it will be shared with the managers or heads for approval. Later, the details will be sent to the accounts department. 
+Let's consider a scenario where an employee submits a business trip application. After submitting the application, it will be shared with the managers or heads for approval. Later, the details will be sent to the accounts department. 
 
 With Forguncy you can create such states and define rules for the approval process. Try [Business Trip](http://localhost:4000/getting-started/sample-(templates)/#business-trip) sample to understand the workflow console of Furguncy.
 

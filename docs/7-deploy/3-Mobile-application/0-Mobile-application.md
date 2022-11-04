@@ -14,13 +14,15 @@ Forguncy supports iOS and Android mobile devices. You can download and install t
 
 After developing an application containing mobile page(s) with Forguncy Builder, publish it to Forguncy Server and register the URL in the mobile application to access it on a smartphone or iPad.
 
-##### Note: Registration can be done by entering the URL directly or scanning the QR code.
+##### Note: Registration can be done by directly entering the URL or scanning the QR code.
 
 The Forguncy application viewed on mobile devices offers following additional features that cannot be achieved with the Web browser version:
 - Launch the smartphone camera directly from the application.
 - Barcode scanning (if mobile barcode scan plug-in is installed).
-- For the **Image Upload** cell type, you can select a photo, start the camera and upload the photo you took. 
-##### Note: Not applicable for iOS, web browser version.
+- For the **Image Upload** cell type, you can select a photo, or start the camera and upload the photo you clicked. 
+
+Note: Not applicable for iOS, web browser version.
+{:.note}
 
 ## iOS Version of Application
 ##### [Click here](https://apps.apple.com/jp/app/forguncy/id1450585530) to download.
