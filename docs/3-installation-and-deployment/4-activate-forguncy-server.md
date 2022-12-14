@@ -34,7 +34,32 @@ Click on the Offline Activation, and the process looks as follows:
 ![server-activation-offline](/assets/images/product-images/server-activation-offline.gif)
 {: .dropshadow}
 
-#### Offline Deactivation
+The step by step procedure of Forguncy Server Activation is-
+
+- Go to **Support** and click the **Licenses** option.
+- Click the **Add Server License** button.
+- **Server License Key** dialog will appear. Enter the activation code you received from the Forguncy support team and click **Activate** button.
+
+![forguncy-server-license-activation](/assets/images/product-images/forguncy-server-license-activation.png)
+{: .dropshadow}
+
+- If the activation code entered is correct, you must see the **Offline Activation** link in another dialog. Click the link to proceed.
+
+![forguncy-server-license-offline-activation](/assets/images/product-images/forguncy-server-license-offline-activation.png)
+{: .dropshadow}
+
+- Copy the **Request Activation code** and send it to *support@forguncy.net*. 
+- The support team will email you the activation code that needs to be inserted in the blank **Activation Code** area and click the **Offline Activation** button to complete the activation process.
+
+![forguncy-server-license-offline-activation-request-code](/assets/images/product-images/forguncy-server-license-offline-activation-request-code.png)
+{: .dropshadow}
+
+- Upon successful completion of the above-mentioned process, you should be able to see the below screen.
+
+![forguncy-server-license-activated](/assets/images/product-images/forguncy-server-license-activated.png)
+{: .dropshadow}
+
+### Offline Deactivation
 In the same way, the offline deactivation can be done as shown in the image below:
 
 ![server-deactivation-offline](/assets/images/product-images/server-deactivation-offline.gif)

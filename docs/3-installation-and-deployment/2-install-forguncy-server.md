@@ -50,6 +50,30 @@ If your system meets the requirements mentioned above, you can proceed with the 
 
 Once the product is installed successfully, you can look for **Forguncy Admin Portal** in the installed application list and run it.
 
+The step-by-step procedure of installing Forguncy Server is-
+
+- Open the .exe file and agree to the **User license Agreement**. 
+- Give the installation path and click the **Install** button.
+
+![forguncy-server-installation](/assets/images/product-images/forguncy-server-installation.png)
+{: .dropshadow}
+
+- It will take some time to initiate and finish the installation. 
+
+![forguncy-server-installation-progress](/assets/images/product-images/forguncy-server-installation-progress.png)
+{: .dropshadow}
+
+- Once the installation is finished you can check the *Start up Forguncy Server Admin Portal* to launch the **Server Manager** after closing the popup. 
+
+![forguncy-server-install-finished](/assets/images/product-images/forguncy-server-install-finished.png)
+{: .dropshadow}
+
+- Enter credentials to log into the Forguncy server manager. 
+
+![forguncy-server-manager](/assets/images/product-images/forguncy-server-manager.png)
+{: .dropshadow}
+
+
 ## Uninstallation
 Open the **Add or remove programs** and select the **Forguncy Admin Portal**. Follow the instruction on the screen, and the software is removed, as shown in the screenshot below. 
 
