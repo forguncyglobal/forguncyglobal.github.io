@@ -8,7 +8,7 @@ nav_order: 1
 ---
 
 # {{ page.title }}
-<!--
+
 Steps to create a list view are-
 
 - Create a data table to display in the list view.
@@ -48,4 +48,3 @@ Set the timing of fixing list view data.
 
 Tip: Data extraction and sorting in the list view can be performed even when [Do not update list view data immediately] is enabled.
 {:.note}
--->
