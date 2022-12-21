@@ -43,7 +43,11 @@ The system must have .NET Framework 3.5 SP1 or above already installed. If not, 
 {: .note}
 
 ## Installation
-If your system meets the requirements mentioned above, you can proceed with the installation by downloading the latest installer from the [product website](https://www.forguncy.net/){:target="_blank"}. Follow the instructions on the screen as shown below.
+If your system meets the requirements mentioned above, you can proceed with the installation by downloading the latest installer from the [product website](https://www.forguncy.net/){:target="_blank"}. 
+
+### Forguncy Server for Windows
+
+Follow the instructions on the screen as shown below-
 
 ![server-install](/assets/images/product-images/server-install.gif)
 {: .dropshadow}
@@ -71,6 +75,32 @@ The step-by-step procedure of installing Forguncy Server is-
 - Enter credentials to log into the Forguncy server manager. 
 
 ![forguncy-server-manager](/assets/images/product-images/forguncy-server-manager.png)
+{: .dropshadow}
+
+### Forguncy Server for Linux
+
+The step-by-step procedure of installing Forguncy Server is-
+
+- Check the system requirements and make sure that the environment of the computer you are trying to install meets the system requirements.
+- Download the Linux version of Forguncy Server. Access the URL described in the body of the delivery email and download the TAR file, which is the installer archive. If the downloaded file is not on the OS to be installed, transfer the file to the tmp directory of the target environment using the SCP command or FTP.
+- Remotely connect to your Linux environment. If you don't have an SSH client installed, you'll need to enable SSH in PowerShell.
+- Go to the directory containing the downloaded TAR file.
+- Extract the TAR file- *sudo tar -xvf forguncy_linux_x_x_x_x.tar*
+
+![forguncy-server-linux](/assets/images/product-images/forguncy-server-linux.png)
+{: .dropshadow}
+
+Note- Here *x* refers to a different version number depending on the version of Forguncy. It can also be the filename *forguncy_linux.tar* without a version number.
+{:.note}
+
+- Install Forguncy Server. Execute the extracted SH file with the following command to install Forguncy Server. <br/> *sudo bash installForguncy_en.sh* <br/> Installs various .NET 6 runtimes required at runtime if the target installation has an internet connection enabled. The installation process will take several minutes. <br/>When the installation is complete, the following will be displayed.
+
+![forguncy-server-linux-installed](/assets/images/product-images/forguncy-server-linux-installed.png)
+{: .dropshadow}
+
+- A successful installation will install Forguncy Server functionality and the Forguncy Server Management Portal. You can now publish your application to Forguncy Server. You can access the server management portal by accessing the URL in the red frame with a web browser.
+
+![forguncy-server-linux-server-managemen](/assets/images/product-images/forguncy-server-linux-server-management.png)
 {: .dropshadow}
 
 
