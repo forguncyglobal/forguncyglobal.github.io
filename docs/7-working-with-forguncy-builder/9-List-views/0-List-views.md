@@ -10,6 +10,8 @@ has_toc: true
 
 # {{ page.title }}
 
+## Description
+
 List views are used to list the data stored in a table and to identify the current record of a table used. For example, you bind a textbox to a field in a table. Now, to display the values of that current record in a text box you can create a list view.
 
 Note: Current Record is one data for which a cursor exists in the target table data and is determined by the user which is used in various data binding operations.
