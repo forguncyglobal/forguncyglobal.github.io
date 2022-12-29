@@ -61,6 +61,9 @@ Set the appearance, such as the presence or absence of headers and borders.
 
 Set operations such as update processing and selection in the list view.
 
+![listview-settings-edit&selectTab](/assets/images/product-images/listview-settings-edit%26selectTab.png)
+{:.dropshadow}
+
 |Controls|Description|
 |:--|:--|
 |**Allow editing list view**|Allows editing of data. This field is not visible or configurable on mobile pages. Default is disabled. |
@@ -80,6 +83,9 @@ Set operations such as update processing and selection in the list view.
 
 Configure settings such as actions and focus movement when column headers are clicked.
 
+![listview-settings-OtherBehaviorTab](/assets/images/product-images/listview-settings-OtherBehaviorTab.png)
+{:.dropshadow}
+
 |Controls|Description|
 |:--|:--|
 |**Column Header Behavior**|Sets the behavior on click of the column header. <br/> **Select whole column when clicked**- Click the column header to select the entire column. <br/> **Sort when clicked**- Each time you click a column header, the records are sorted alternately between ascending and descending order based on the value of that column. <br/> **Dropdown menu to sort and filter**- A dropdown for sorting and filtering is displayed on clicking the column header, similar to the column header filter in an Excel table. <br/><br/> *Note*- Settings other than **Select whole column when clicked** are valid only for columns for which data binding is set. The default value is **Dropdown menu to sort and filter**.|
@@ -91,4 +97,7 @@ Configure settings such as actions and focus movement when column headers are cl
 ### Data Tab
 
 Set the timing of fixing list view data.
+
+![listview-settings-DataTab](/assets/images/product-images/listview-settings-DataTab.png)
+{:.dropshadow}
 
