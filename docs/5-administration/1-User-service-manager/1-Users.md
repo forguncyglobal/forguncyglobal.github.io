@@ -36,21 +36,43 @@ The following buttons are clickable only if the action is valid.
 
 ## How to Add Users
 
-Describes how to add users using the user account management screen during development. same applies to the server management portal during operation.
+Steps to **Add** users are as follows:
 
-- Select Internal Administration , Users, and click the Add User button.
-- Select an authentication method and add users.
-    "Forms authentication" and "Windows authentication" users can be added together. However, the authentication method that can be used in one application is limited to the users specified in Setting the user authentication mode .
+- On the User Service Manager screen, go to **Users**.
+- Click **Add User**.
 
-If you have created extended attributes, they will appear at the end of the Add User screen below so that you can assign extended attributes to users. For example, you can create "supervisor" in the extended attribute, and specify Mr. B as Mr. A's superior when adding user A here.
+![users-add-user](/assets/images/product-images/users-add-user.png)
+{:.dropshadow}
 
-### How to add a "Forms Authentication User". 
-Click the Forms Authentication Users tab as shown below. Enter the information according to the display and click the "OK" button to complete the addition.
-### How to add a "Windows Authentication User"
-- Click the "Windows Authentication Users" tab as shown below. <br/>Switch between automatic and manual domain synchronization
-By default, Forguncy tries to pick up new Windows authenticated users added on the domain and automatically syncs them. You can get the latest information by clicking the [Update to the latest Windows authentication user information] button in the red frame on the screen below.<br/>Forguncy has an expiration time of 5 minutes to automatically retrieve user information from your domain. If the network environment is slow, it may take 3 minutes to acquire. You can switch this to manual sync by changing "AutoSyncWindowsDomainUsers" in the file below to false. See Global Settings for more information on this. File Location: C:\Users\Public\Documents\ForguncyServer\GlobalConfig.xml
--  Enter a value in the search box and press the Enter key or click to perform a search and display a list of search results according to the entered content. If you don't enter a value in the search box, the domain's users will be displayed in the full list. Note that users who have already been added as Forguncy users will not be displayed in the list. <br/>Here, check the user you want to add and click "OK". You can check multiple people at once. The value entered in the search box is searched for "user name", "full name", and "email address" in a case-insensitive manner.
-- You can confirm that the user has been added to the list as shown in the screen below.
+- In the **Add User** dialoge choose *Add Forms User* or *Add Windows User* tab to add users depending on the authentication. However, the authentication method that can be used in one application is limited to the users specified in Setting the user authentication mode.
+
+Note: The extended attributes will appear at the end of the **Add User** screen. For example, you can create "supervisor" in the extended attribute, and specify Mr. B as Mr. A's superior when adding user A here.
+
+![users-add-user-extended-attributes](/assets/images/product-images/users-add-user-extended-attributes.png)
+{:.dropshadow}
+
+
+### How to add a Forms Authentication User 
+
+- Go to **Add user** dialoge.
+- Click the **Add Form User** tab.
+- Fill in the user details and click the *OK* button to save.
+
+### How to add a Windows Authentication User
+
+- Go to **Add user** dialoge.
+- Click the **Add Windows User** tab.
+- By default, Forguncy tries to pick up new Windows authenticated users added on the domain and automatically syncs them. You can get the latest information by clicking the *Sync Windows Domain UserS* button. 
+
+![users-add-user-windows-user](/assets/images/product-images/users-add-user-windows-user.png)
+{:.dropshadow}
+
+- Forguncy has an expiration time of 5 minutes to automatically retrieve user information from your domain. If the network environment is slow, it may take 3 minutes to acquire. You can switch this to manual sync by changing *AutoSyncWindowsDomainUsers* in the file below to false. <br/> File Location: *C:\Users\Public\Documents\ForguncyServer\GlobalConfig.xml*
+
+- Enter a value in the search box and press the *Enter* key to perform a search and display a list of search results according to the entered content. If you don't enter a value in the search box, the domain's users will be displayed in the full list. <br/> Check the user you want to add and click *OK*. You can check multiple people at once. The value entered in the search box is searched for *user name*, *full name*, and *email address* in a case-insensitive manner.
+
+Note: Users who have already been added as Forguncy users will not be displayed in the list. 
+{:.note}
 
 
 
