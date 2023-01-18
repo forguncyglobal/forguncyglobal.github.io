@@ -34,7 +34,7 @@ Note: Setting one or the other does not cause both to be set.
 
 To manage users, roles, and organizations using **User Service Manager** follow the below steps:
 
-- Log on to Forguncy builder and go to **Security** tab.
+- Log in to Forguncy builder and go to **Security** tab.
 - Click **User Service**.
 
 ![user-service](/assets/images/product-images/user-service.png)
