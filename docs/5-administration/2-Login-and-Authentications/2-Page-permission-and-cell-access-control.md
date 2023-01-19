@@ -28,6 +28,8 @@ This section describes how to set permissions for pages.
 Note: When setting permissions for each role, it is necessary to log in to the [User Service Manager](https://docs.forguncy.net/working-with-forguncy-builder/administration/user-service-manager/), add roles in advance.
 {:.note}
 
+### List of Roles with Privileges
+
 |Roles|Description|
 |:--|:--|
 |**Everyone**|If checked, anyone can view the page regardless of whether they are logged in. No login screen is displayed. <br/>This setting will not be displayed if Windows authentication is selected). This setting takes precedence over other role settings.|
@@ -42,11 +44,68 @@ You can filter searches for roles and pages as follows:
 
 ### Precautions when Republishing applications
 
-If you republish your application after changing page view permission settings, you must check the Override page view permission and cell access control settings check option when republishing your application. If you republish the application without checking this check option, the changed page view permission settings will not be reflected in the published application.
+If you republish your application after changing page view permission/ new cell access control settings, you must check the Override page view/display permission and cell access control settings check option when republishing your application. If you republish the application without checking this check option, the changed/new settings will not be reflected in the published application.
 
 ### Changing Page View Permissions in Forguncy Server Admin Portal
 
-After publishing the application, it is possible to change the page viewing permission setting on the Forguncy server management portal.
+After publishing the application, it is possible to change the page viewing permission and cell's access control settings on the Forguncy server management portal.
+
+## Cell Access Control
+
+For a specific cell type, you can set whether it can be used, displayed, hidden, or whether it can be edited depending on the role of the login user.
+
+Note: This permission setting is only for access control on the screen. When access control is applied to a text box cell type that can update a field in the database, it is not possible to update from the screen, but it is possible to update from other means such as API. If you want access control over such operations , consider using data-level access control.
+{:.note}
+
+<!-- Also, if you use this function to disable or hide a cell, you cannot use the *[Set Cell Properties]* command to cancel that state. -->
+
+Cell access control is available for the following cell types. In addition, this function cannot be used in the cell type placed in the list view cell template.
+
+|Cell Type|Enabled authority|View permission|Edit permission|
+|:--|:--|:--|:--|
+|Button|✓|✓|-|
+|Hyperlink|✓|✓|-|
+|Image|✓|✓|-|
+|Text Box|✓|✓|✓|
+|Multiline Text Box|✓|✓|✓|
+|Combo Box|✓|✓|✓|
+|Date|✓|✓|✓|
+|Time|✓|✓|✓|
+|Numerical Value|✓|✓|✓|
+|Check Box|✓|✓|✓|
+|Check Box Group|✓|✓|✓|
+|Radio Group|✓|✓|✓|
+|User Selection combo Box|✓|✓|✓|
+|Image Upload|✓|✓|✓|
+|Attachment|✓|✓|✓|
+|Menu|-|✓|-|
+
+Steps to set cell access control are as follows-
+
+![cell-access-control-set-UI-permission](/assets/images/product-images/cell-access-control-set-UI-permission.png)
+{:.dropshadow}
+
+- Select the target cell type and go to **Cell Type** tab of the right pane.
+- Click **Set UI Permissions..**.
+- In the **UI Permission Settings** dialoge 
+    - Check the *Enable* check box on the **Enable Permission** tab and select any role to make the target cell available only to members belonging to a specific role.
+
+    ![cell-access-control-set-enable-permission](/assets/images/product-images/cell-access-control-set-enable-permission.png)
+    {:.dropshadow}
+
+    - Check the *Enable* check box on the **Visible Permission** tab and select any role to make the target cell visible only to members belonging to a specific role.
+
+    ![cell-access-control-set-visible-permission](/assets/images/product-images/cell-access-control-set-visible-permission.png)
+    {:.dropshadow}
+
+    - Check the *Enable* check box on the **Editable Permission** tab and select any role to make the target cell editable only to members belonging to a specific role.
+
+    ![cell-access-control-set-editable-permission](/assets/images/product-images/cell-access-control-set-editable-permission.png)
+    {:.dropshadow}
+
+- Click the **Start** button on the **Home** ribbon tab to debug and see your application in action.
+
+Read here to know about [privileges for respective roles](#list-of-roles-with-privileges).
 
 
 
