@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Create from Access
+title: Create Project from Access
 parent: Project
 grand_parent: Working with Forguncy Builder
-permalink: /working-with-forguncy-builder/Project/Create-from-access/
+permalink: /working-with-forguncy-builder/Project/Create-project-from-access/
 nav_order: 2
 ---
 

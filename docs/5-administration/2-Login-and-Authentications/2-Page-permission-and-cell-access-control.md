@@ -42,14 +42,6 @@ You can filter searches for roles and pages as follows:
 ![authority-management-filter-searches](/assets/images/product-images/authority-management-filter-searches.png)
 {:.dropshadow}
 
-### Precautions when Republishing applications
-
-If you republish your application after changing page view permission/ new cell access control settings, you must check the Override page view/display permission and cell access control settings check option when republishing your application. If you republish the application without checking this check option, the changed/new settings will not be reflected in the published application.
-
-### Changing Page View Permissions in Forguncy Server Admin Portal
-
-After publishing the application, it is possible to change the page viewing permission and cell's access control settings on the Forguncy server management portal.
-
 ## Cell Access Control
 
 For a specific cell type, you can set whether it can be used, displayed, hidden, or whether it can be edited depending on the role of the login user.
@@ -107,7 +99,13 @@ Steps to set cell access control are as follows-
 
 Read here to know about [privileges for respective roles](#list-of-roles-with-privileges).
 
+## Precautions when Republishing applications
 
+If you republish your application after changing page view permission/ new cell access control settings, you must check the Override page view/display permission and cell access control settings check option when republishing your application. If you republish the application without checking this check option, the changed/new settings will not be reflected in the published application.
+
+## Changing Page View Permissions and Access Control in Forguncy Server Admin Portal
+
+After publishing the application, it is possible to change the page viewing permission and cell's access control settings on the Forguncy server management portal.
 
 
 

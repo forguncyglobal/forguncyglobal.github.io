@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Create from Samples
+title: Create Project from Templates
 parent: Project
 grand_parent: Working with Forguncy Builder
-permalink: /working-with-forguncy-builder/Project/Create-from-samples/
+permalink: /working-with-forguncy-builder/Project/Create-project-from-templates/
 nav_order: 3
 ---
 

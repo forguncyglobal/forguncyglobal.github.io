@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Create from Excel
+title: Create Project from Excel
 parent: Project
 grand_parent: Working with Forguncy Builder
-permalink: /working-with-forguncy-builder/Project/Create-from-excel/
+permalink: /working-with-forguncy-builder/Project/Create-project-from-excel/
 nav_order: 1
 ---
 
