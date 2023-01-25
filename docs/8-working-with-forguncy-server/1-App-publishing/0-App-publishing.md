@@ -10,9 +10,7 @@ has_toc: true
 
 # {{ page.title }}
 
-To make your applications available to end users, you need to publish them using Forguncy server. 
-
-Once the app development is finished in forguncy Builder read below section for the step by step procedure of online app publishing.
+The process of uploading the application from Forguncy Builder to Forguncy Server and starting its operation is called *publishing*. To make your applications available to end users, you need to [publish them using Forguncy server](#steps-from-completion-of-app-development-to-operation). 
 
 <!-- Applications can be published on the server using one of two methods:
 
@@ -32,3 +30,17 @@ The following is an example of the setting method for Windows-
 
 If the above port number is enabled and you are still unable to connect to the server, then there is a possibility that access to this port number may be restricted somewhere else. Check with the person in charge (system administration department) of network administration whether this port number is accessible or not.
 
+## Steps from completion of app development to operation
+
+The step to publish and operate the application are as follows-
+
+- Install Forguncy Server.
+- Add users to Forguncy Server. 
+
+Adding users in Forguncy Builder is different than adding users in Forguncy Server. When you publish and run your application, you will need to add a new official user account in Forguncy Server. Alternatively, it is also possible to [publish user information together with the application](https://docs.forguncy.net/working-with-forguncy-server/app-publishing/online-app-publishing/#:~:text=Publish%20User%20Service).
+
+Note: Add users to the application only if you have created a Forguncy application with login functionality.
+{:.note}
+
+- Publish the application to Forguncy Server. Read [Online App Publishing](https://docs.forguncy.net/working-with-forguncy-server/app-publishing/online-app-publishing/) for the detailed procedure.
+- Modify the application and add functions as necessary.
