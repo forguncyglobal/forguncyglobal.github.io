@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Organization
-parent: User Service Manager
+parent: User Service Management
 grand_parent: Administration
-permalink: /administration/User-service-manager/uorganization/
+permalink: /administration/User-service-management/uorganization/
 nav_order: 3
 ---
 

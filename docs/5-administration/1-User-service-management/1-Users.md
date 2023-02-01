@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Users
-parent: User Service Manager
+parent: User Service Management
 grand_parent: Administration
-permalink: /administration/User-service-manager/user/
+permalink: /administration/User-service-management/user/
 nav_order: 1
 ---
 

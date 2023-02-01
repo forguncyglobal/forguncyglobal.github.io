@@ -72,12 +72,12 @@ Note: The default administrator credentials are- Username: Administrator and Pas
 
 ## Forguncy Server Management Menu
 
-The Forguncy Server Management menu allows you to configure the following settings:
+The Forguncy Server Management menu allows you to configure the following security settings:
 
-|User|To create and edit users.|
-|Roll|To create roles and manage role members.|
-|Organizational level|To create and manage organizational levels.|
-|Organization|To create organizational structures and manage organizational members.|
-|Custom Fields|To create and manage extended attributes.|
+|**User**|To create and edit users.|
+|**Roll**|To create roles and manage role members.|
+|**Organizational level**|To create and manage organizational levels.|
+|**Organization**|To create organizational structures and manage organizational members.|
+|**Custom Fields**|To create and manage extended attributes.|
 
 

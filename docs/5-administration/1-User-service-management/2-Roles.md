@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Roles
-parent: User Service Manager
+parent: User Service Management
 grand_parent: Administration
-permalink: /administration/User-service-manager/role/
+permalink: /administration/User-service-management/role/
 nav_order: 2
 ---
 

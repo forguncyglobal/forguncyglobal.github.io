@@ -1,6 +1,6 @@
 ---
 layout: default
-title: User Service Manager
+title: User Service Management
 parent: Administration
 permalink: /working-with-forguncy-builder/administration/user-service-manager/
 nav_order: 1
