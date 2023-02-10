@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Search & Replace
-parent: Run &amp; Debug
-permalink: /run-and-debug/Search-and-Replace/
+title: Search and Replace
+parent: Debug Apps
+grand_parent: Working with Forguncy Builder
+permalink: /working-with-forguncy-builder/debug-apps/search-and-replace/
 nav_order: 2
 ---
 
