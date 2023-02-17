@@ -21,7 +21,7 @@ Forguncy only supports OData. It retrieves table data using OData resource paths
 |**Server-side API**|You can retrieve table data using an OData resource path by using the GetTableData method (String) overload.|
 |**Web APIs**|By using the getTableDataByOData method, you can get the table data using the OData resource path. |
 |**URLs**|You can get table data using OData with the URL rules <br/> *http://server name or IP address/application path/OData/GetData/OData resource path* <br/> Note: You cannot use the URL method unless you are logged into the Forguncy application. |
-|**Function**||
+|**Function**|By using the OData function, you can get the table data with the conditions specified by OData.|
 
 Below is the sample of using C# code to get authentication for the Forguncy application and retrieving table data using OData by URL:
 
@@ -77,7 +77,7 @@ public  static  string GetODataWindows( string baseUrl, string odataParam, strin
 
 OData functions are specific functions in Forguncy that do not exist in Excel. 
 
-By using the OData function, you can get the table data with the conditions specified by OData. When setting an OData function to a cell, it is possible to construct an OData path using the GUI by using the [OData generation tool](#OData-generation-tool).
+When setting an OData function to a cell, it is possible to construct an OData path using the GUI by using the [OData generation tool](#OData-generation-tool).
 
 ## OData Generation Tool
 

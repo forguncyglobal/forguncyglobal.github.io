@@ -49,8 +49,7 @@ Alternatively, right-click the **Tables** tab in the navigation Pane and select 
 Note: As in Excel, you can also rename by double-clicking the tab at the bottom of the workspace.
 {:.note}
 
-<!--
 
-### Create Table from Excel File ->
+### Create Table from Excel File 
 
 
