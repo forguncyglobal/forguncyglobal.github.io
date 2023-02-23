@@ -20,6 +20,10 @@ Hands-on on Forguncy with sample templates. Download and use them as a template 
 - [Delivery Management](#delivery-management)
 - [Material Management](#material-management)
 - [Purchase Bill](#purchase-bill)
+- [Travel Report](#travel-report)
+- [Benchmark](#benchmark)
+- [Hotel Management](#hotel-management)
+- [Real Estate Agency Management](#real-estate-agency-management)
 
 ----
 ## Feature Demo
@@ -179,6 +183,56 @@ An Inventory Management application where you can place and edit orders from a l
 A bill management application which enables you to register bill entries, search lists of entries, see the trends and summarize them.
 
 ![purchase-bill](/assets/images/sample-templates/purchase-bill.png)
+
+#### [Back To Top](#sample-templates)
+
+## Travel Report
+
+<span class="fs-2">
+[Download](/assets/sample-projects/10TravelReport.fgcproj){: .btn .btn-green .mr-2 }
+</span>
+
+A system for employees to create travel expense reports to apply for reimbursement of their business trips. The total amount of travel expenses and daily allowance, and the difference in provisional payment will be automatically calculated in the application.
+
+![travel-report](/assets/images/sample-templates/10TravelReport.png)
+
+#### [Back To Top](#sample-templates)
+
+## Benchmark
+
+<span class="fs-2">
+[Download](/assets/sample-projects/11Benchmark.fgcproj){: .btn .btn-green .mr-2 }
+</span>
+
+Benchmark - An application that calculates the time taken for processing/loading a specified number of records from a database, and also the time taken to export a specified amount of data to different file formats like excel and pdf.
+
+![benchmark](/assets/images/sample-templates/BenchmarkEnglishThumbnail.png)
+
+#### [Back To Top](#sample-templates)
+
+## Hotel Management
+
+<span class="fs-2">
+[Download](/assets/sample-projects/14HotelManagement.fgcproj){: .btn .btn-green .mr-2 }
+</span>
+
+Hotel management system is an auxiliary software for information management in the hotel industry, aiming to help hotel managers improve management efficiency and improve hotel operating profits.
+
+![hotel-management](/assets/images/sample-templates/HotelMgt.png)
+
+#### [Back To Top](#sample-templates)
+
+## Real Estate Agency Management
+
+<span class="fs-2">
+[Download](/assets/sample-projects/15RealEstateAgencyManagement.fgcproj){: .btn .btn-green .mr-2 }
+</span>
+
+Real estate agency management - A system to carry out information management and other administrative affairs of the real estate agency business, to achieve improved work efficiency and business conditions. It mainly includes housing management, customer management, contract management, office management and other modules.
+
+![hotel-management](/assets/images/sample-templates/RealEstate.png)
+
+#### [Back To Top](#sample-templates)
 
 ---
 
