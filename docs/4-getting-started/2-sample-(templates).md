@@ -204,7 +204,7 @@ A system for employees to create travel expense reports to apply for reimburseme
 [Download](/assets/sample-projects/11Benchmark.fgcproj){: .btn .btn-green .mr-2 }
 </span>
 
-Benchmark - An application that calculates the time taken for processing/loading a specified number of records from a database, and also the time taken to export a specified amount of data to different file formats like excel and pdf.
+An application that calculates the time taken for processing or loading a specified number of records from a database. It also calculates the time taken to export a specified amount of data to different file formats such as excel and pdf.
 
 ![benchmark](/assets/images/sample-templates/BenchmarkEnglishThumbnail.png)
 
@@ -216,7 +216,7 @@ Benchmark - An application that calculates the time taken for processing/loading
 [Download](/assets/sample-projects/14HotelManagement.fgcproj){: .btn .btn-green .mr-2 }
 </span>
 
-Hotel management system is an auxiliary software for information management in the hotel industry, aiming to help hotel managers improve management efficiency and improve hotel operating profits.
+A Hotel management system is an auxiliary software for information management in the hotel industry, aiming to help hotel managers improve management efficiency.
 
 ![hotel-management](/assets/images/sample-templates/HotelMgt.png)
 
@@ -228,7 +228,7 @@ Hotel management system is an auxiliary software for information management in t
 [Download](/assets/sample-projects/15RealEstateAgencyManagement.fgcproj){: .btn .btn-green .mr-2 }
 </span>
 
-Real estate agency management - A system to carry out information management and other administrative affairs of the real estate agency business, to achieve improved work efficiency and business conditions. It mainly includes housing management, customer management, contract management, office management and other modules.
+A system to carry out information management and other administrative affairs of the real estate agency business. It improves work efficiency and business conditions. It mainly includes housing management, customer management, contract management, office management, and other modules.
 
 ![hotel-management](/assets/images/sample-templates/RealEstate.png)
 
