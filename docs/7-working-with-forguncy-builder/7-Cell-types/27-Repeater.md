@@ -32,16 +32,21 @@ Steps to create a repeater cell type:
 Note: The same operation can also be performed by right-clicking the repeater Cell type and select **Edit Template** from the context menu.
 {:.note}
 
-![repeater_edit_template](/assets/images/product-images/repeater_edit_template.png)
+![repeater_edit_template_creation](/assets/images/product-images/repeater_edit_template_creation.png)
 {:.dropshadow}
 
-- If you want to design a template and display the list view data in the cell, set any column name in the **Related Column** field in the **Cell Type** tab (right pane).
+- If you want to design a template and display the list view data in the cell, select a cell area and set column name in the **Related Column** field of the **Cell Type** tab (right pane).
+
 - In addition to displaying data, you can also use input-enabled cell types.
 - The dashed line displayed on the template sheet indicates the size of the repeater cell type on the parent page.
 - Click the **Parent Page Snapshot** toggle button on the **Design** context tab of the **Template Page Tools** tab to edit the template while simultaneously viewing the state of the parent page. 
-- Click the **End Edit Template** button on the Design contextual tab of the Template Page Tools contextual tab set to return to the parent page.
 
 ![repeater_edit_template](/assets/images/product-images/repeater_edit_template.png)
+{:.dropshadow}
+
+- Click the **End Edit Template** button on the Design contextual tab of the Template Page Tools contextual tab set to return to the parent page.
+
+![repeater_end_edit_template](/assets/images/product-images/repeater_end_edit_template.png)
 {:.dropshadow}
 
 - If you click the **Start** button on the Home ribbon tab, you can see that the repeater template displays the bound data for the number of records in the list view and repeats.

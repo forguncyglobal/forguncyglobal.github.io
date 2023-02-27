@@ -12,6 +12,10 @@ nav_order: 1
 
 There are several ways to create a table. Follow below steps to create a new table:
 
+- [Create a New Table](#create-a-new-table)
+- [Create Table from Excel File](#create-table-from-excel-file)
+- [Create Table from Text File](#)
+
 ### Create a New Table
 
 - Go to **Create** tab and click **Table** dropdown.
@@ -52,4 +56,57 @@ Note: As in Excel, you can also rename by double-clicking the tab at the bottom 
 
 ### Create Table from Excel File 
 
+- Prepare an Excel file to import.
 
+![table-from-excel-file](/assets/images/product-images/table-from-excel-file.png)
+{:.dropshadow}
+
+- Click the **Excel to Table** button from the **Data** ribbon tab.
+
+![excel-to-table](/assets/images/product-images/excel-to-table.png)
+{:.dropshadow}
+
+- Click the **Browse...** button to specify the file to import data.
+
+![excel-to table-get-external-data](/assets/images/product-images/excel-to%20table-get-external-data.png)
+{:.dropshadow}
+
+- Specify how and where you want to store the data in the current project and click the **OK** button.
+- Select a sheet or range to import and click the **Next** button.
+
+![excel-to-table-import-spreadsheet-wizard](/assets/images/product-images/excel-to table-import-spreadsheet-wizard.png)
+{:.dropshadow}
+
+- Select whether to use the data in the first row as field names, and click the **Next** button.
+
+![excel-to%20table-import-spreadsheet-wizard-column-headings](/assets/images/product-images/excel-to%20table-import-spreadsheet-wizard-column-headings.png)
+{:.dropshadow}
+
+- Specify the column to be imported or not. Set the name, and data type of the fields to be imported. and then click the **Finish** button.
+
+![excel-to%20table-import-spreadsheet-wizard-column-import](/assets/images/product-images/excel-to%20table-import-spreadsheet-wizard-column-import.png)
+{:.dropshadow}
+
+**Rules for importing into image type fields**
+
+Only one file can be stored in an image type field.
+
+- Extension of the image file to be imported- .art, .bmp, .cmx, .cod, .dib, .gif, .ico, .ief, .jfif, .jpe, .jpeg, .jpg, .pbm, .pgm, .png, .pnm, .pnz , .ppm, .ras, .rf, .rgb, .tif, .tiff, .wbmp, .xbm, .xpm, .xwd
+- File name specification- *picture1.jpg*
+- Specifying a path including folders- *folder1\picture1.jpg*
+
+**Rules for importing into attachment type fields**
+
+An attachment type field can store multiple files.
+
+- File name specification- *document1.docx*
+- Specifying a path including folders- *folder1\document1.docx*
+- Specifying a folder- All files present in the folder will be imported.
+- Specifying multiple files- *picture1.jpg|picture2.jpg*
+- Specifying multiple folders- *folder1|folder2*
+
+### Create Table from Text File 
+
+- Prepare a text file. You can import tab-delimited files as well as comma-delimited files.
+- Click the **Text File to Table** button on the **Data** ribbon tab.
+- Click the **Browse...** button to specify the file to import, confirm that [Import source data into a new table in the current database] is selected, and click the **OK** button.
