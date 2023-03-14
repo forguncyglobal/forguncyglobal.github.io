@@ -8,13 +8,14 @@ nav_order: 1
 
 # {{ page.title }}
 
-## How to create a table
+## How to create a Table and Views
 
-There are several ways to create a table. Follow below steps to create a new table:
+There are several ways to create a table. Follow below steps to create a new table and a view:
 
 - [Create a New Table](#create-a-new-table)
 - [Create Table from Excel File](#create-table-from-excel-file)
-- [Create Table from Text File](#)
+- [Create Table from Text File](#create-table-from-text-file)
+- [Create a View](#how-to-create-a-view)
 
 ### Create a New Table
 
@@ -87,6 +88,8 @@ Note: As in Excel, you can also rename by double-clicking the tab at the bottom 
 ![excel-to%20table-import-spreadsheet-wizard-column-import](/assets/images/product-images/excel-to%20table-import-spreadsheet-wizard-column-import.png)
 {:.dropshadow}
 
+- Excel data is imported into the specified table.
+
 **Rules for importing into image type fields**
 
 Only one file can be stored in an image type field.
@@ -102,11 +105,115 @@ An attachment type field can store multiple files.
 - File name specification- *document1.docx*
 - Specifying a path including folders- *folder1\document1.docx*
 - Specifying a folder- All files present in the folder will be imported.
-- Specifying multiple files- *picture1.jpg|picture2.jpg*
-- Specifying multiple folders- *folder1|folder2*
+- Specifying multiple files- *picture1.jpg, picture2.jpg,..*
+- Specifying multiple folders- *folder1, folder2,..*
 
 ### Create Table from Text File 
 
-- Prepare a text file. You can import tab-delimited files as well as comma-delimited files.
+- Prepare a tab-delimited text file.
+
+![tab-delimated-text-file](/assets/images/product-images/tab-delimated-text-file.png)
+{:.dropshadow}
+
 - Click the **Text File to Table** button on the **Data** ribbon tab.
-- Click the **Browse...** button to specify the file to import, confirm that [Import source data into a new table in the current database] is selected, and click the **OK** button.
+
+![table-from-text-file](/assets/images/product-images/table-from-text-file.png)
+{:.dropshadow}
+
+- Click the **Browse...** button to specify the file to import. Choose **Import source data into a new table in the current database** option and click the **OK** button.
+
+![get-external-data-text-file](/assets/images/product-images/get-external-data-text-file.png)
+{:.dropshadow}
+
+- Select the required option and click the **Next** button. 
+
+![import-text-wizard](/assets/images/product-images/import-text-wizard.png)
+{:.dropshadow}
+
+- Clicking **Options...** displays the dialog shown below and allows you to set some options.
+
+![text-to-table-import-options](/assets/images/product-images/text-to-table-import-options.png)
+{:.dropshadow}
+
+- Select whether to use the data in the first row as field names, and click the **Next** button.
+
+![text-to-table-import-text-wizard](/assets/images/product-images/text-to-table-import-text-wizard.png)
+{:.dropshadow}
+
+- Specify the column to be imported or not. Set the name, and data type of the fields to be imported. and then click the **Next** button.
+
+![text-to-table-import-text-wizard-2](/assets/images/product-images/text-to-table-import-text-wizard-2.png)
+{:.dropshadow}
+
+- Specify the table name of the import destination and click **Finish**.
+
+![text-to-table-import-text-wizard-3](/assets/images/product-images/text-to-table-import-text-wizard-3.png)
+{:.dropshadow}
+
+- Text data is imported into the specified table.
+
+## How to create a View
+
+A view is a virtual table without the actual table itself. You can extract or combine some fields of a table or multiple tables to make them look like a single table. A view is defined by a query consisting of SQL statements.
+
+Note: The below sections are all about creating views on Forguncy's internal database, not views on an external database such as SQL Server or Oracle Database.
+{:.note}
+
+Steps to create a View are:
+
+- Go to **Create**, click **View** and select **New View..**. Alternatively, right-click the *Tables & Views* tab in the Navigation Pane and select **New View..**.
+
+![create-view](/assets/images/product-images/create-view.png)
+{:.dropshadow}
+
+- Enter the **View Name** and SQL statement in the space provided.
+
+![new-view](/assets/images/product-images/new-view.png)
+{:.dropshadow}
+
+Elements of Forguncy like table name and item name can be used in SQL statements.
+
+|Item name|Item name that can be used in SQL|
+|:--|:--|
+|Identification|Identification|
+|Author|FGC_Creator|
+|Creation date|FG_CreateDate|
+|Last updated by|FGC_LastModifier|
+|Last Modified|FGC_LastModifyDate|
+|Situation|FGC_State|
+|Manager|FGC_AssignTo|
+|Line version|It can not be used.|
+|Update helper|It can not be used.|
+
+Note: You can rename a view after creating it by right-clicking the view name and selecting **Rename** or by double-clicking the tab at the bottom of the workspace.
+{:.note}
+
+- Right-click the view name and select **Set Primary Keys..**.
+
+![view-set-primary-keys](/assets/images/product-images/view-set-primary-keys.png)
+{:.dropshadow}
+
+- Select a primary key and click **OK**.
+
+![views-select-unique-record-identifier](/assets/images/product-images/views-select-unique-record-identifier.png)
+{:.dropshadow}
+
+### Create a User Information View
+
+You can create a user information view that displays all user information created in the user account management screen.
+
+User information view values ​​are read-only. It cannot add, update, or delete records. The primary key of the user information view is created with *Username*. The primary key cannot be changed. Only one user information view can be created in one project. The user information view items cannot be deleted or changed.
+
+- Go to **Create**, click **View** and select **User Info View..**. Alternatively, right-click the Tables tab in the Navigation Pane and click **User Info View..**.
+
+![views-user-info-view](/assets/images/product-images/views-user-info-view.png)
+{:.dropshadow}
+
+- A user information view is created. Rename it as required.
+
+![user-info-view](/assets/images/product-images/user-info-view.png)
+{:.dropshadow}
+
+Note: You can rename a user info view after creating it by right-clicking the user info view name and selecting **Rename** or by double-clicking the tab at the bottom of the workspace.
+{:.note}
+
