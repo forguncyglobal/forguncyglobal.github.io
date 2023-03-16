@@ -16,6 +16,7 @@ There are several ways to create a table. Follow below steps to create a new tab
 - [Create Table from Excel File](#create-table-from-excel-file)
 - [Create Table from Text File](#create-table-from-text-file)
 - [Create a View](#how-to-create-a-view)
+- [Create a User Information View](#create-a-user-information-view)
 
 ### Create a New Table
 
@@ -216,4 +217,6 @@ User information view values ​​are read-only. It cannot add, update, or dele
 
 Note: You can rename a user info view after creating it by right-clicking the user info view name and selecting **Rename** or by double-clicking the tab at the bottom of the workspace.
 {:.note}
+
+
 

@@ -3,7 +3,7 @@ layout: default
 title: OData
 parent: Working with Database
 permalink: /working-with-database/OData/
-nav_order: 2
+nav_order: 4
 ---
 
 # {{ page.title }}
