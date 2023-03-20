@@ -29,6 +29,9 @@ To bind data field, drag and drop the field from the navigation pane onto the ro
 A column header is a string that is used as the header row of a table. This string and appearance of column header is editable.
 Left edge of list view area can also be set as the row header, and this is editable.
 
+Kindly refer [Working with Database](https://docs.forguncy.net/working-with-database/#working-with-database) to know more about database and table creation in Forguncy.
+
+
 <!--
 ## List Display
 You can list data by binding a table to a list view.

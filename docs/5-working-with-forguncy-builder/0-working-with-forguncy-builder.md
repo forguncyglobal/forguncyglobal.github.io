@@ -9,4 +9,4 @@ has_toc: true
 
 # {{ page.title }}
 
-The various functionalities of Forguncy Builder is explained in the following topics.  
+The various functionalities of Forguncy Builder are explained in the following topics.  
