@@ -4,6 +4,8 @@ title: Reports
 parent: Working with Forguncy Builder
 permalink: /working-with-forguncy-builder/reports/
 nav_order: 19
+has_children: true
+has_toc: true
 ---
 
 # {{ page.title }}
