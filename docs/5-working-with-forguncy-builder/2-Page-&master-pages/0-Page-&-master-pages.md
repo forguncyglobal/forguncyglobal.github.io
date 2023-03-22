@@ -3,7 +3,7 @@ layout: default
 title: Page &amp; Master Pages
 parent: Working with Forguncy Builder
 permalink: /working-with-forguncy-builder/Page-&-master-pages/
-nav_order: 5
+nav_order: 2
 has_children: true
 has_toc: true
 ---

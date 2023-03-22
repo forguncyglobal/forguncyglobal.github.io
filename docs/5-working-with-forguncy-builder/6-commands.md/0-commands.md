@@ -3,7 +3,7 @@ layout: default
 title: Commands
 parent: Working with Forguncy Builder
 permalink: /working-with-forguncy-builder/commands/
-nav_order: 8
+nav_order: 6
 has_children: true
 has_toc: true
 ---

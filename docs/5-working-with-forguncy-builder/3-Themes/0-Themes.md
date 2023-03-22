@@ -3,7 +3,7 @@ layout: default
 title: Themes
 parent: Working with Forguncy Builder
 permalink: /working-with-forguncy-builder/Themes/
-nav_order: 16
+nav_order: 3
 has_children: true
 has_toc: true
 ---

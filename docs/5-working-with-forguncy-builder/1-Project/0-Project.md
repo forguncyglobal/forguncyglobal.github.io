@@ -3,7 +3,7 @@ layout: default
 title: Project
 parent: Working with Forguncy Builder
 permalink: /working-with-forguncy-builder/Project/
-nav_order: 3
+nav_order: 1
 has_children: true
 has_toc: true
 ---

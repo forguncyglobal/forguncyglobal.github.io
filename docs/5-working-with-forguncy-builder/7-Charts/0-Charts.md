@@ -3,7 +3,7 @@ layout: default
 title: Charts
 parent: Working with Forguncy Builder
 permalink: /develop/Charts/
-nav_order: 13
+nav_order: 7
 has_children: true
 has_toc: true
 ---

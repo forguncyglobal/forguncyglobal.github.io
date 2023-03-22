@@ -3,7 +3,7 @@ layout: default
 title: List Views
 parent: Working with Forguncy Builder
 permalink: /working-with-forguncy-builder/List-views
-nav_order: 9
+nav_order: 5
 has_children: true
 has_toc: true
 ---

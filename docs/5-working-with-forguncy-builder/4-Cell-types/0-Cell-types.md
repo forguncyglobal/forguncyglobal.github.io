@@ -3,7 +3,7 @@ layout: default
 title: Cell Types
 parent: Working with Forguncy Builder
 permalink: /working-with-forguncy-builder/Cell-types/
-nav_order: 7
+nav_order: 4
 has_children: true
 has_toc: true
 ---
