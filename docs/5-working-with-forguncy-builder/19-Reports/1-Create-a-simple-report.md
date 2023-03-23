@@ -59,9 +59,12 @@ Selecting a target table will automatically load and display the fields from the
     ![report-edit-table-anchor-points](/assets/images/product-images/report-edit-table-anchor-points.png)
     {:.dropshadow}
 
-    - Select Table and set the table style in **Properties** on the right. 
+    - Select Table and set the table style in **Properties** on the right. The **Data** allows you to do data binding but you need to add a data source first.
 
     ![report-properties](/assets/images/product-images/report-properties.png)
+    {:.dropshadow}
+
+    ![report-data](/assets/images/product-images/report-data.png)
     {:.dropshadow}
 
     - Click the **Preview** button to preview the report. 
