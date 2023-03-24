@@ -16,12 +16,18 @@ The activation steps are:
 
 - After installing the Forguncy Builder run the application.
 - You'll be prompted to enter an activation code. 
+
+![forguncy-builder-enter-activation-code](/assets/images/product-images/forguncy-builder-enter-activation-code.png)
+{: .dropshadow}
+
 - Copy the activation code received in the mail and paste it into the prompted text box. You need to copy the entire string of the code.
 
 ![Forguncy-builder-activation-code](/assets/images/product-images/Forguncy-builder-activation-code.png)
 {: .dropshadow}
 
-![builder-activation](/assets/images/product-images/builder-activation.gif)
+- Now click the **Activate** button to activate Forguncy Builder.
+
+![Forguncy-builder-paste-activation-code](/assets/images/product-images/Forguncy-builder-paste-activation-code.png)
 {: .dropshadow}
 
 The activation of the Forguncy Builder doesn't require an internet connection.
