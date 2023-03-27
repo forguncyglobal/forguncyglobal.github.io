@@ -3,10 +3,10 @@ layout: default
 title: Report Graph
 parent: Reports
 grand_parent: Working with Forguncy Builder
-permalink: /develop/reports/report-graph/
+permalink: /working-with-forguncy-builder/reports/report-graph/
 nav_order: 3
 has_children: true
-has_toc: true
+has_toc: false
 ---
 
 # {{ page.title }}

@@ -3,7 +3,7 @@ layout: default
 title: Create a Map chart
 parent: Charts
 grand_parent: Working with Forguncy Builder
-permalink: /develop/Charts/create-a-map-chart/
+permalink: /working-with-forguncy-builder/Charts/create-a-map-chart/
 nav_order: 4
 ---
 

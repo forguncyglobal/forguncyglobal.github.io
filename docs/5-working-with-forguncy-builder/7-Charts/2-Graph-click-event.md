@@ -3,7 +3,7 @@ layout: default
 title: Graph Click Event
 parent: Charts
 grand_parent: Working with Forguncy Builder
-permalink: /develop/Charts/graph-click-event/
+permalink: /working-with-forguncy-builder/Charts/graph-click-event/
 nav_order: 2
 ---
 

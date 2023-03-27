@@ -3,7 +3,7 @@ layout: default
 title: Create a Combo chart
 parent: Charts
 grand_parent: Working with Forguncy Builder
-permalink: /develop/Charts/create-a-combo-chart/
+permalink: /working-with-forguncy-builder/Charts/create-a-combo-chart/
 nav_order: 1
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: Conditional Formatting of Charts
 parent: Charts
 grand_parent: Working with Forguncy Builder
-permalink: /develop/Charts/conditional-formating-of-charts/
+permalink: /working-with-forguncy-builder/Charts/conditional-formating-of-charts/
 nav_order: 3
 ---
 

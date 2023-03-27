@@ -3,7 +3,7 @@ layout: default
 title: Create a Simple Report
 parent: Reports
 grand_parent: Working with Forguncy Builder
-permalink: /develop/reports/create-a-simple-report/
+permalink: /working-with-forguncy-builder/reports/create-a-simple-report/
 nav_order: 1
 ---
 

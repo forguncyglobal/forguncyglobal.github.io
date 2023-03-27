@@ -3,7 +3,7 @@ layout: default
 title: Report Designer Elements and Operations
 parent: Reports
 grand_parent: Working with Forguncy Builder
-permalink: /develop/reports/report-designer-elements-and-operations/
+permalink: /working-with-forguncy-builder/reports/report-designer-elements-and-operations/
 nav_order: 2
 ---
 
