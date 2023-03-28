@@ -43,11 +43,11 @@ The system must have .NET Framework 3.5 SP1 or above already installed. If not, 
 {: .note}
 
 ## Installation
-If your system meets the requirements mentioned above, you can proceed with the installation by downloading the latest installer from the [product website](https://www.forguncy.net/){:target="_blank"}. 
+If your system meets the requirements mentioned above, you can write us at [support.india@grapecity.com](mailto:support.india@grapecity.com) for the installer.
 
 ### Forguncy Server for Windows
 
-Follow the instructions on the screen as shown below-
+Once you received the installer, please follow the below instruction:
 
 ![server-install](/assets/images/product-images/server-install.gif)
 {: .dropshadow}

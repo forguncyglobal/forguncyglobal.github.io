@@ -10,7 +10,9 @@ nav_order: 4
 
 
 ## Activate
-The **Forguncy Server** is a premium product that needs to be purchased at https://buy.forguncy.net/ or by contacting [support@forguncy.net](mailto:support@forguncy.net). On successful purchase, you will be given a license key that needs to be installed and activated on the Forguncy Server Manger.
+The **Forguncy Server** is a premium product that needs to be purchased. Please contact [india.sales@grapecity.com](mailto:india.sales@grapecity.com). 
+
+On successful purchase, you will be given a license key that needs to be activated on the [Forguncy Server](https://docs.forguncy.net/installation-and-deployment/install-forguncy-server/#installation) Manger. For any support request please email us at [support.india@grapecity.com](mailto:support.india@grapecity.com)
 
 
 ### Online Activation
