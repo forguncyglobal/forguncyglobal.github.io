@@ -37,8 +37,10 @@ Hands-on on Forguncy with sample templates. Download and use them as a template 
 
 A demo application to demonstrate all the basic features of Forguncy. Learn and try out the basic functionalities of the Forguncy Builder. 
 
-![Basic-function](/assets/images/sample-templates/00BasicFunction.png)
-{: . dropshadow}
+<!-- ![Basic-function](/assets/images/sample-templates/00BasicFunction.png)
+{:.dropshadow} -->
+
+<img src="/assets/images/sample-templates/00BasicFunction.png" style="max-width: 480px; width: 100%; filter: drop-shadow(0.2vw 0.2vw 0.2vw grey);">
 
 #### [Back To Top](#sample-templates)
 
@@ -56,8 +58,10 @@ An application that allows:
 - To compare budget data with actual data on the same screen. 
 - To create a forecast using lists and graphs on the dashboard.
 
-![Budget-Control](/assets/images/sample-templates/budgeting.png) 
-{: . dropshadow}
+<!-- ![Budget-Control](/assets/images/sample-templates/budgeting.png) 
+{: . dropshadow} -->
+
+<img src="/assets/images/sample-templates/budgeting.png" style="max-width: 480px; width: 100%; filter: drop-shadow(0.2vw 0.2vw 0.2vw grey);">
 
 #### [Back To Top](#sample-templates)
 
@@ -75,8 +79,10 @@ An application that allows:
 - To enter order data on the matrix table format screen. 
 - To generate the purchase order as a PDF file to the folder on the server-side.
 
-![Order-Management](/assets/images/sample-templates/order-management.png)
-{: . dropshadow}
+<!-- ![Order-Management](/assets/images/sample-templates/order-management.png)
+{: . dropshadow} -->
+
+<img src="/assets/images/sample-templates/order-management.png" style="max-width: 480px; width: 100%; filter: drop-shadow(0.2vw 0.2vw 0.2vw grey);">
 
 #### [Back To Top](#sample-templates)
 
@@ -96,7 +102,9 @@ An application that allows:
 
 ##### Note: On mobile app, you can only place a new order and delete a previous order.
 
-![meal-orders](/assets/images/sample-templates/meal-orders.png)
+<!-- ![meal-orders](/assets/images/sample-templates/meal-orders.png) -->
+
+<img src="/assets/images/sample-templates/meal-orders.png" style="max-width: 480px; width: 100%; filter: drop-shadow(0.2vw 0.2vw 0.2vw grey);">
 
 #### [Back To Top](#sample-templates)
 
@@ -109,7 +117,9 @@ An application that allows:
 [Download](/assets/sample-projects/04BugSystem.fgcproj){: .btn .btn-green .mr-2 }
 </span>
 
-![bug-system](/assets/images/sample-templates/04BugSystem.png)
+<!-- ![bug-system](/assets/images/sample-templates/04BugSystem.png) -->
+
+<img src="/assets/images/sample-templates/04BugSystem.png" style="max-width: 480px; width: 100%; filter: drop-shadow(0.2vw 0.2vw 0.2vw grey);">
 
 #### [Back To Top](#sample-templates)
 
@@ -122,7 +132,9 @@ An application that allows:
 [Download](/assets/sample-projects/05BusinessTrip.fgcproj){: .btn .btn-green .mr-2 }
 </span>
 
-![business-trip](/assets/images/sample-templates/05BusinessTrip.png)
+<!-- ![business-trip](/assets/images/sample-templates/05BusinessTrip.png) -->
+
+<img src="/assets/images/sample-templates/05BusinessTrip.png" style="max-width: 480px; width: 100%; filter: drop-shadow(0.2vw 0.2vw 0.2vw grey);">
 
 #### [Back To Top](#sample-templates)
 
@@ -137,7 +149,9 @@ An application that allows:
 
 An application to extract, add or delete client and business information. You can manage the relationship between Clients, Contacts, Orders, and track Sales activities through Leads and activities.
 
-![customer-management](/assets/images/sample-templates/06CustomerManagement.png)
+<!-- ![customer-management](/assets/images/sample-templates/06CustomerManagement.png) -->
+
+<img src="/assets/images/sample-templates/06CustomerManagement.png" style="max-width: 480px; width: 100%; filter: drop-shadow(0.2vw 0.2vw 0.2vw grey);">
 
 #### [Back To Top](#sample-templates)
 
@@ -152,7 +166,9 @@ An application to extract, add or delete client and business information. You ca
 
 An application to manage delivery items. You can register and edit the delivery information for items. You can also search past information and export the details in an Excel file, or create a summary.
 
-![customer-management](/assets/images/sample-templates/Delivery-management.png)
+<!-- ![customer-management](/assets/images/sample-templates/Delivery-management.png) -->
+
+<img src="/assets/images/sample-templates/Delivery-management.png" style="max-width: 480px; width: 100%; filter: drop-shadow(0.2vw 0.2vw 0.2vw grey);">
 
 #### [Back To Top](#sample-templates)
 
@@ -167,7 +183,9 @@ An application to manage delivery items. You can register and edit the delivery 
 
 An Inventory Management application where you can place and edit orders from a list of goods, track the orders, manage the inventory and other production processes.
 
-![material-management](/assets/images/sample-templates/material-management.png)
+<!-- ![material-management](/assets/images/sample-templates/material-management.png) -->
+
+<img src="/assets/images/sample-templates/material-management.png" style="max-width: 480px; width: 100%; filter: drop-shadow(0.2vw 0.2vw 0.2vw grey);">
 
 #### [Back To Top](#sample-templates)
 
@@ -182,7 +200,9 @@ An Inventory Management application where you can place and edit orders from a l
 
 A bill management application which enables you to register bill entries, search lists of entries, see the trends and summarize them.
 
-![purchase-bill](/assets/images/sample-templates/purchase-bill.png)
+<!--![purchase-bill](/assets/images/sample-templates/purchase-bill.png) -->
+
+<img src="/assets/images/sample-templates/purchase-bill.png" style="max-width: 480px; width: 100%; filter: drop-shadow(0.2vw 0.2vw 0.2vw grey);">
 
 #### [Back To Top](#sample-templates)
 
@@ -194,7 +214,9 @@ A bill management application which enables you to register bill entries, search
 
 A system for employees to create travel expense reports to apply for reimbursement of their business trips. The total amount of travel expenses and daily allowance, and the difference in provisional payment will be automatically calculated in the application.
 
-![travel-report](/assets/images/sample-templates/10TravelReport.png)
+<!--![travel-report](/assets/images/sample-templates/10TravelReport.png)-->
+
+<img src="/assets/images/sample-templates/10TravelReport.png" style="max-width: 480px; width: 100%; filter: drop-shadow(0.2vw 0.2vw 0.2vw grey);">
 
 #### [Back To Top](#sample-templates)
 
@@ -206,7 +228,9 @@ A system for employees to create travel expense reports to apply for reimburseme
 
 An application that calculates the time taken for processing or loading a specified number of records from a database. It also calculates the time taken to export a specified amount of data to different file formats such as excel and pdf.
 
-![benchmark](/assets/images/sample-templates/BenchmarkEnglishThumbnail.png)
+<!--![benchmark](/assets/images/sample-templates/BenchmarkEnglishThumbnail.png) -->
+
+<img src="/assets/images/sample-templates/BenchmarkEnglishThumbnail.png" style="max-width: 480px; width: 100%; filter: drop-shadow(0.2vw 0.2vw 0.2vw grey);">
 
 #### [Back To Top](#sample-templates)
 
@@ -218,7 +242,9 @@ An application that calculates the time taken for processing or loading a specif
 
 A Hotel management system is an auxiliary software for information management in the hotel industry, aiming to help hotel managers improve management efficiency.
 
-![hotel-management](/assets/images/sample-templates/HotelMgt.png)
+<!-- ![hotel-management](/assets/images/sample-templates/HotelMgt.png) -->
+
+<img src="/assets/images/sample-templates/HotelMgt.png" style="max-width: 480px; width: 100%; filter: drop-shadow(0.2vw 0.2vw 0.2vw grey);">
 
 #### [Back To Top](#sample-templates)
 
@@ -230,7 +256,9 @@ A Hotel management system is an auxiliary software for information management in
 
 A system to carry out information management and other administrative affairs of the real estate agency business. It improves work efficiency and business conditions. It mainly includes housing management, customer management, contract management, office management, and other modules.
 
-![hotel-management](/assets/images/sample-templates/RealEstate.png)
+<!-- ![hotel-management](/assets/images/sample-templates/RealEstate.png) -->
+
+<img src="/assets/images/sample-templates/RealEstate.png" style="max-width: 480px; width: 100%; filter: drop-shadow(0.2vw 0.2vw 0.2vw grey);">
 
 #### [Back To Top](#sample-templates)
 
