@@ -46,6 +46,9 @@ If your system meets the requirements mentioned above, you can proceed with the 
 
 Once the product is installed successfully, you can look for **Forguncy Builder 8** in the installed application list and run it.
 
+Note: Run as Administrator while installing the Forguncy Builder installer.
+{:.note}
+
 ## Uninstallation
 Open the **Add or remove programs** and select the **Forguncy Builder 8**. Follow the instruction on the screen, and the software is removed, as shown in the screenshot below. 
 
