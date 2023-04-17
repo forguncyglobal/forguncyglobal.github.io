@@ -11,10 +11,10 @@ nav_order: 2
 The Forguncy Server hosts (or serves) the web applications you create using the Forguncy Builder (for convenience, we'll call such applications "Forguncy web applications." The Forguncy Server is managed using the Server Manager web portal.
 
 ## Feature Highlights
-Following are some of the key features of Forguncy Server. Each section links to pages with more details.
+Following are some of the key features of Forguncy Server:
 
 ### User Services
-The User Services allows you to manage the users that will be using the Forgunchy web applications. You can define the organizational structure of the users as to how users relate to each other. This information becomes necessary for the workflow.
+The User Services allows you to manage the users that will be using the Forguncy web applications. You can define the organizational structure of the users as to how users relate to each other. This information becomes necessary for the workflow.
 
 ![server-user-services](/assets/images/product-images/server-user-services.gif)
 {: . dropshadow}

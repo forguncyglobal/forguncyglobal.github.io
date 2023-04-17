@@ -13,7 +13,7 @@ has_toc: true
 You can create a graph in the same way as you create charts in the Excel by using the chart function. 
 
 ## Chart Type
-Forguncy supports the following chart types. If you want to create a combo chart instead of a single chart, see [Create a Combo Chart](http://localhost:4000/develop/Charts/create-a-combo-chart/#create-a-combo-chart).
+Forguncy supports the following chart types. If you want to create a combo chart instead of a single chart, see [Create a Combo Chart](http://localhost:4000/working-with-forguncy-builder/Charts/create-a-combo-chart/).
 
 - Column Chart
 - Line Graph

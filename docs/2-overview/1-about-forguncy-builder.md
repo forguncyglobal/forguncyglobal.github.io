@@ -8,7 +8,7 @@ nav_order: 1
 
 # {{ page.title }}
 
-The Forguncy Builder runs on your desktop and is available for Windows. If you'd like to get started installing it on your computer, see the [Install Forguncy Builder](/setup/install-forguncy-builder/) page.
+The Forguncy Builder runs on your desktop and is available for Windows. If you'd like to get started installing it on your computer, see the [Install Forguncy Builder](https://docs.forguncy.net/installation-and-deployment/install-forguncy-builder/) page.
 
 ## Explore User Inteface
 ![forguncy-builder](/assets/images/product-images/forguncy-builder-explore.gif)
@@ -25,7 +25,7 @@ The Forguncy Builder runs on your desktop and is available for Windows. If you'd
 - **Get Help Toolbar** - The toolbar on the right top provides you quick access to the Welcome screen and the online help system (this website).
 
 ## Feature Highlights
-Following are some of the key features of Forguncy Builder. Each section links to pages with more details.
+Following are some of the key features of Forguncy Builder:
 
 ### Pages &amp; Master Pages
 Pages are the visual interface of your web application with which the user of your web application interacts.
@@ -36,6 +36,8 @@ Pages are the visual interface of your web application with which the user of yo
 ![pages-and-master-pages](/assets/images/product-images/pages-and-master-pages.gif)
 {: .dropshadow}
 
+[Click here](https://docs.forguncy.net/working-with-forguncy-builder/Page-&-master-pages/) to know more about pages and master pages.
+
 ### Cell Types
 While working in the Builder, the page area is provided to you in sections of cells with columns and rows, just as in Microsoft Excel documents. 
 
@@ -45,6 +47,8 @@ Any cell's default type is General type, but you can extend its capabilities by 
 
 ![cell-types](/assets/images/product-images/cell-type-basic.gif)
 {: .dropshadow}
+
+[Click here](https://docs.forguncy.net/working-with-forguncy-builder/Cell-types/) to know more about cell types.
 
 ### Number Formats
 Number formats define how the underlying cell value is represented, whether the value is a number, date, time, text, percentage, scientific, currency, or accounting. If you're familiar with this from Microsoft Excel, you're at home.
@@ -57,6 +61,8 @@ The Forguncy supports over 300 formulas that are found in Microsoft Excel.
 
 ![formula-types](/assets/images/product-images/formula-types.gif)
 {: .dropshadow}
+
+[Click here](https://docs.forguncy.net/working-with-forguncy-builder/Formulas-&-functions/) to know more about themes.
 
 ### Conditional Formatting
 Cells can have automatic formattings applied to cells based on their values. Just as in Microsoft Excel, rules also support formulas.
@@ -76,24 +82,26 @@ You can use data validation to restrict the type of value that users enter into 
 ![data-validation-types](/assets/images/product-images/data-validation-types.gif)
 {: .dropshadow}
 
-
 ### Debug &amp; Run
 Forguncy Builder allows you to build and run your web application on your desktop (the development environment) on the choice of browsers. It helps in incremental development. It even supports mobile simulator that you can test your application against.
 
 ![run-the-project](/assets/images/product-images/run-the-project.gif)
 {: .dropshadow}
 
-
 When using objects such as a table, listview, objects, and cell references across many pages, master pages, and reports, it becomes impossible to keep track of where they are being used. Forguncy Builder allows you to check where a particular object or cell reference is referenced.
 
 ![find-cell-references](/assets/images/product-images/find-cell-references.gif)
 {: .dropshadow}
+
+[Click here](https://docs.forguncy.net/working-with-forguncy-builder/debug-apps/) to know more about debugging.
 
 ### Themes
 Themes allow you to give a consistent look to your web application and make it easy to change the look and feel of your application quickly. 
 
 ![theme-types](/assets/images/product-images/theme-types.gif)
 {: .dropshadow}
+
+[Click here](https://docs.forguncy.net/working-with-forguncy-builder/Themes/) to know more about themes.
 
 ### Import &amp; Export
 When you're making a web application, you may want to have a quick jump start with it by using the existing Microsoft Excel documents or Microsoft Access projects. Forguncy allows you to import from Microsoft Excel documents and Microsoft projects and export pages or listview to Excel. And through some plugins, you can also import from or export to CSV.
