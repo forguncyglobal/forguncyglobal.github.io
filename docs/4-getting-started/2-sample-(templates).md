@@ -117,6 +117,8 @@ An application that allows:
 [Download](/assets/sample-projects/04BugSystem.fgcproj){: .btn .btn-green .mr-2 }
 </span>
 
+A system for reporting and managing bugs in application development. You can manage the status of reported bugs. You can refer to the bugs you have reported or the bugs you are in charge of by changing the conditions.
+
 <!-- ![bug-system](/assets/images/sample-templates/04BugSystem.png) -->
 
 <img src="/assets/images/sample-templates/04BugSystem.png" style="max-width: 480px; width: 100%; filter: drop-shadow(0.2vw 0.2vw 0.2vw grey);">
@@ -131,6 +133,8 @@ An application that allows:
 <span class="fs-2">
 [Download](/assets/sample-projects/05BusinessTrip.fgcproj){: .btn .btn-green .mr-2 }
 </span>
+
+A system for business trip application submission and managing their approvals. You can define rules for the approval such as business trip with a travel period of more than 3 days, approval of the department head and leader is required. 
 
 <!-- ![business-trip](/assets/images/sample-templates/05BusinessTrip.png) -->
 
@@ -258,7 +262,7 @@ A system to carry out information management and other administrative affairs of
 
 <!-- ![hotel-management](/assets/images/sample-templates/RealEstate.png) -->
 
-<img src="/assets/images/sample-templates/RealEstate.png" style="max-width: 480px; width: 100%; filter: drop-shadow(0.2vw 0.2vw 0.2vw grey);">
+<img src="/assets/images/sample-templates/RealEstate.png" class="" style="max-width: 480px; width: 100%; filter: drop-shadow(0.2vw 0.2vw 0.2vw grey);">
 
 #### [Back To Top](#sample-templates)
 
