@@ -244,7 +244,7 @@ An application that calculates the time taken for processing or loading a specif
 [Download](/assets/sample-projects/14HotelManagement.fgcproj){: .btn .btn-green .mr-2 }
 </span>
 
-A Hotel management system is an auxiliary software for information management in the hotel industry, aiming to help hotel managers improve management efficiency.
+A Hotel management system is an auxiliary software for information management in the hotel industry, aiming to help hotel managers in improving management efficiency.
 
 <!-- ![hotel-management](/assets/images/sample-templates/HotelMgt.png) -->
 
