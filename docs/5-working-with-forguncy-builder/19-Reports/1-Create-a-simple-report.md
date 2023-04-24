@@ -9,9 +9,22 @@ nav_order: 1
 
 # {{ page.title }}
 
+Forguncy allows two types of report creation:
+
+### Page Report
+
+**Page Report** designs report on a page where none of the report controls can grow or shrink at run time. Hence, making it suitable for duplicating legacy paper forms. This report type is great for billing statements, mail merge, catalogs, forms, and reports with layout constrictions. 
+
+Note: Page report controls do not change in size based on the data. You can use an Overflow Place Holder to handle any extra data.
+{:.note}
+
+### RDL Report
+
+**RDL Report** layout is an interactive report type, where controls grow vertically to accommodate data. Controls can grow and shrink, you can set up interactive sorting, you can set up drill-down reports in which detail data is initially hidden, and can be toggled by other items, and you can add drill-through links to other reports and to bookmark links within reports.
+
 The steps to create a simple report are as follows:
 
-- Go to **Create** tab and select **Page Report**.
+- Go to **Create** tab and select report type.
 
 ![report-create](/assets/images/product-images/report-create.png)
 {:.dropshadow}

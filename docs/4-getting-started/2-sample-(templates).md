@@ -24,6 +24,7 @@ Hands-on on Forguncy with sample templates. Download and use them as a template 
 - [Benchmark](#benchmark)
 - [Hotel Management](#hotel-management)
 - [Real Estate Agency Management](#real-estate-agency-management)
+- [School Administration Management](#school-administration-management)
 
 ----
 ## Feature Demo
@@ -263,6 +264,20 @@ A system to carry out information management and other administrative affairs of
 <!-- ![hotel-management](/assets/images/sample-templates/RealEstate.png) -->
 
 <img src="/assets/images/sample-templates/RealEstate.png" class="" style="max-width: 480px; width: 100%; filter: drop-shadow(0.2vw 0.2vw 0.2vw grey);">
+
+#### [Back To Top](#sample-templates)
+
+## School Administration Management
+
+<span class="fs-2">
+[Download](/assets/sample-projects/SchoolAdministrationManagement.fgcproj){: .btn .btn-green .mr-2 }
+</span>
+
+School Administration Management is a system that can help schools and training institutions in managing students, teachers, and educational affairs. It includes functions such as student information management, performance management, faculty information, class scheduling management, and reward & punishment management.
+
+<!-- ![school-administration-management](/assets/images/sample-templates/school-administration-management.png) -->
+
+<img src="/assets/images/sample-templates/school-administration-management.png" class="" style="max-width: 480px; width: 100%; filter: drop-shadow(0.2vw 0.2vw 0.2vw grey);">
 
 #### [Back To Top](#sample-templates)
 

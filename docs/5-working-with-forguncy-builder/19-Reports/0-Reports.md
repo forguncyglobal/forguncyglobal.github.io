@@ -10,5 +10,7 @@ has_toc: true
 
 # {{ page.title }}
 
+The **Report** feature of **Forguncy** offers a reporting solution to design, customize, publish, and view reports in web applications. 
+
 Forguncy has a function to export page objects to PDF or Excel for display on a web browser. You can use this function to export forms such as quotations, sales slips, etc. However, the main purpose of the page object is to display it on a web browser and hence there is a limitation for form output. By using report objects, it is possible to overcome this challenge. Report objects support more detailed form layouts.
 
