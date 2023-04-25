@@ -270,10 +270,10 @@ A system to carry out information management and other administrative affairs of
 ## School Administration Management
 
 <span class="fs-2">
-[Download](/assets/sample-projects/SchoolAdministrationManagement.fgcproj){: .btn .btn-green .mr-2 }
+[Download](/assets/sample-projects/SchoolAdministrationManagement.fgcproj){: .btn .btn-green .mr-2 } 
 </span>
 
-School Administration Management is a system that can help schools and training institutions in managing students, teachers, and educational affairs. It includes functions such as student information management, performance management, faculty information, class scheduling management, and reward & punishment management.
+School Administration Management is a system that can help schools and training institutions in managing students, teachers, and educational affairs. It includes functions such as student information management, performance management, faculty information, class scheduling management, award & recognition management, and more.
 
 <!-- ![school-administration-management](/assets/images/sample-templates/school-administration-management.png) -->
 
