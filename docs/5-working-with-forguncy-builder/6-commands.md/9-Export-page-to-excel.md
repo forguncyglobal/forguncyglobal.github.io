@@ -3,7 +3,7 @@ layout: default
 title: Export Page to Excel
 parent: Commands
 grand_parent: Working with Forguncy Builder
-permalink: /working-with-forguncy-builder/commands/Client-side-commands/Export-page-to-excel
+permalink: /working-with-forguncy-builder/commands/Export-page-to-excel/
 nav_order: 9
 ---
 

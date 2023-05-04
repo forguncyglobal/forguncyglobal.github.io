@@ -3,7 +3,7 @@ layout: default
 title: Send Email
 parent: Commands
 grand_parent: Working with Forguncy Builder
-permalink: /working-with-forguncy-builder/commands/Client-side-commands/Send-email/
+permalink: /working-with-forguncy-builder/commands/Send-email/
 nav_order: 11
 ---
 

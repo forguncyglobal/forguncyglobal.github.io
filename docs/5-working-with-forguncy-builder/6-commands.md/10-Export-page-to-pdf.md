@@ -3,7 +3,7 @@ layout: default
 title: Print/Export Page to PDF
 parent: Commands
 grand_parent: Working with Forguncy Builder
-permalink: /working-with-forguncy-builder/commands/Client-side-commands/Print-export-page-to-pdf
+permalink: /working-with-forguncy-builder/commands/Print-export-page-to-pdf/
 nav_order: 10
 ---
 

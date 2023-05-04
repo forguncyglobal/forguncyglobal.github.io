@@ -3,7 +3,7 @@ layout: default
 title: Update Data Table
 parent: Commands
 grand_parent: Working with Forguncy Builder
-permalink: /working-with-forguncy-builder/commands/Client-side-commands/update-data-table
+permalink: /working-with-forguncy-builder/commands/update-data-table
 nav_order: 4
 ---
 
@@ -14,6 +14,7 @@ This command allows updating, adding, and deleting field values ​​in a table
 Even if the field is not bound to data, you can update or add data by specifying Non-data bound field with this command. The delete process deletes the entire record regardless of data binding settings.
 
 Note: To update the data in the list view, please use the **Operate Listview** command.
+{:.Note}
 
 <!-- The default found set is the current record unless you change the Record to update in advanced settings. The current record is the record selected in the list view. Even if there is no list view on the page, if any record is selected in the list view of the transition source page, it becomes the current record. For details, please refer to "Role of list view" in What is list view? -->
 
@@ -23,11 +24,12 @@ If you have set a data input rule for any cell on the page, the validation proce
 
 ## To update Single Table
 
-The image below shows the screen for updating, adding, and deleting a single table.
-Click **Enable transaction processing** to operate with the records of multiple tables at once by executing a single command.
+The image below shows the screen for updating, adding, and deleting a single table. Refer below screenshot for the field selection. 
 
 ![command-update-data-table](/assets/images/product-images/command-update-data-table.png)
 {:.dropshadow}
+
+Click **Enable transaction processing** to operate with the records of multiple tables at once by executing a single command.
 
 ## To update Multiple Tables
 

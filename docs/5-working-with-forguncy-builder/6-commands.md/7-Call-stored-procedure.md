@@ -3,7 +3,7 @@ layout: default
 title: Call Stored Procedure
 parent: Commands
 grand_parent: Working with Forguncy Builder
-permalink: /working-with-forguncy-builder/commands/Client-side-commands/call-stored-procedure
+permalink: /working-with-forguncy-builder/commands/call-stored-procedure/
 nav_order: 7
 ---
 

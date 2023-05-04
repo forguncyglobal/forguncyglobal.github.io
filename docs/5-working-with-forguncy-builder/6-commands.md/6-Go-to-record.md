@@ -3,7 +3,7 @@ layout: default
 title: Go to Record
 parent: Commands
 grand_parent: Working with Forguncy Builder
-permalink: /working-with-forguncy-builder/commands/Client-side-commands/go-to-record
+permalink: /working-with-forguncy-builder/commands/go-to-record
 nav_order: 6
 ---
 

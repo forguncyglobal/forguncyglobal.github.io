@@ -3,7 +3,7 @@ layout: default
 title: Subscribe
 parent: Commands
 grand_parent: Working with Forguncy Builder
-permalink: /working-with-forguncy-builder/commands/Client-side-commands/Subscribe/
+permalink: /working-with-forguncy-builder/commands/Subscribe/
 nav_order: 12
 ---
 

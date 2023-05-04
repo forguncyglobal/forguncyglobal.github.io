@@ -3,7 +3,7 @@ layout: default
 title: Navigate
 parent: Commands
 grand_parent: Working with Forguncy Builder
-permalink: /working-with-forguncy-builder/commands/Client-side-commands/navigate
+permalink: /working-with-forguncy-builder/commands/navigate
 nav_order: 1
 ---
 

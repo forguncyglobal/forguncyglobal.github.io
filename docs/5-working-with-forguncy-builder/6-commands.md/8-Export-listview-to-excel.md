@@ -3,7 +3,7 @@ layout: default
 title: Export Listview to Excel
 parent: Commands
 grand_parent: Working with Forguncy Builder
-permalink: /working-with-forguncy-builder/commands/Client-side-commands/Export-listview-to-excel
+permalink: /working-with-forguncy-builder/commands/Export-listview-to-excel/
 nav_order: 8
 ---
 

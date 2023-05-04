@@ -3,7 +3,7 @@ layout: default
 title: Close Popup
 parent: Commands
 grand_parent: Working with Forguncy Builder
-permalink: /working-with-forguncy-builder/commands/Client-side-commands/close-popup
+permalink: /working-with-forguncy-builder/commands/close-popup/
 nav_order: 3
 ---
 

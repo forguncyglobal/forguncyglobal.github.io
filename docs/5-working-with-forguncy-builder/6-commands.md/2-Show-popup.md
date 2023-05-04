@@ -3,7 +3,7 @@ layout: default
 title: Show Popup
 parent: Commands
 grand_parent: Working with Forguncy Builder
-permalink: /working-with-forguncy-builder/commands/Client-side-commands/show-popup
+permalink: /working-with-forguncy-builder/commands/show-popup/
 nav_order: 2
 ---
 
