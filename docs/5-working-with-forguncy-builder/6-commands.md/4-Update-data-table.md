@@ -26,7 +26,7 @@ If you have set a data input rule for any cell on the page, the validation proce
 
 The image below shows the screen for updating, adding, and deleting a single table. Refer below screenshot for the field selection. 
 
-![command-update-data-table](/assets/images/product-images/command-update-data-table.png)
+![ommand-update-data-table-filled-details](/assets/images/product-images/command-update-data-table-filled-details.png)
 {:.dropshadow}
 
 Click **Enable transaction processing** to operate with the records of multiple tables at once by executing a single command.
