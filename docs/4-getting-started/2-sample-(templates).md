@@ -242,6 +242,9 @@ An application that calculates the time taken for processing or loading a specif
 ## Hotel Management
 
 <span class="fs-2">
+[Try](https://apps.forguncy.net/hotel-management/){: .btn .btn-purple .mr-2 }{:target="_blank"}
+</span>
+<span class="fs-2">
 [Download](/assets/sample-projects/14HotelManagement.fgcproj){: .btn .btn-green .mr-2 }
 </span>
 
@@ -256,6 +259,9 @@ A Hotel management system is an auxiliary software for information management in
 ## Real Estate Agency Management
 
 <span class="fs-2">
+[Try](https://apps.forguncy.net/realestateagency-management/){: .btn .btn-purple .mr-2 }{:target="_blank"}
+</span>
+<span class="fs-2">
 [Download](/assets/sample-projects/15RealEstateAgencyManagement.fgcproj){: .btn .btn-green .mr-2 }
 </span>
 
@@ -269,6 +275,9 @@ A system to carry out information management and other administrative affairs of
 
 ## School Administration Management
 
+<span class="fs-2">
+[Try](https://apps.forguncy.net/schooladministration-management/){: .btn .btn-purple .mr-2 }{:target="_blank"}
+</span>
 <span class="fs-2">
 [Download](/assets/sample-projects/SchoolAdministrationManagement.fgcproj){: .btn .btn-green .mr-2 } 
 </span>
