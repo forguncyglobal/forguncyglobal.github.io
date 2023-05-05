@@ -2,7 +2,7 @@
 layout: default
 title: User Service Management
 parent: Administration
-permalink: /working-with-forguncy-builder/administration/user-service-manager/
+permalink: /administration/user-service-manager/
 nav_order: 1
 has_children: true
 has_toc: true

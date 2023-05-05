@@ -2,7 +2,7 @@
 layout: default
 title: Login and Authentications
 parent: Administration
-permalink: /working-with-forguncy-builder/administration/ulogin-and-authentications/
+permalink: /administration/ulogin-and-authentications/
 nav_order: 2
 has_children: true
 has_toc: true
