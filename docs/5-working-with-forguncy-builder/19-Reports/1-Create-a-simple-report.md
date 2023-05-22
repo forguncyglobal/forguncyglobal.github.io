@@ -62,6 +62,17 @@ Selecting a target table will automatically load and display the fields from the
     ![report-edit-table-controls](/assets/images/product-images/report-edit-table-controls.png)
     {:.dropshadow}
 
+    These three lines represent the three functional areas of the table- Header area, Detail area and Footer area.
+
+    The first row represents the table *Header* area, which is used to display the column titles of the table. The column title text can be entered manually, or it can be automatically set as the field name by the system while binding the data field.
+    
+    The second line represents the *Detail* area, which is used to bind and display data. When generating a report, the system will automatically generate multiple rows according to the number of records in the dataset i.e., the total number of rows is equal to the number of records in the dataset.
+    
+    The last row represents the *Footer* area, which is generally used to display information such as totals and report notes. It can be entered manually, or the system can automatically add operation functions while binding the data field. 
+    
+    Note: By default, the *Sum* operation is performed on numeric fields, and the *Count* operation is performed on non-numeric fields.
+    {:.note} 
+
     - Concatenate the data. Select a field from the data source by clicking the three dots to the right of each column in the second row .
 
     ![report-edit-table-concatenate](/assets/images/product-images/report-edit-table-concatenate.png)
