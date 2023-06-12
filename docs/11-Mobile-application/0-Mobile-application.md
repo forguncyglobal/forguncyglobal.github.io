@@ -1,12 +1,14 @@
 ---
 layout: default
 title: Mobile Application
-parent: Deploy
-permalink: /deploy/mobile-application/
-nav_order: 2
+permalink: /mobile-application/
+nav_order: 10
 has_children: true
 has_toc: true
 ---
+
+# {{ page.title }}
+
 
 # {{ page.title }}
 
